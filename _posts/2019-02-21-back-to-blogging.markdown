@@ -10,7 +10,10 @@ blog again. I’ve been motivated to do this for a number of reasons:
 
 - I grow increasingly impatient with the various 800 pound gorillas of
 the Internet trying to herd everyone into their walled gardens, and
-then laying claim to everyone’s content. This is counter to the
+then laying claim to everyone’s content. To add insult to injury, it
+seems that they are often also 
+[quite careless with your data](https://www.theguardian.com/commentisfree/2018/dec/21/quit-facebook-privacy-scandal-private-messages). This is counter 
+to the 
 [original intent of the Internet](https://inrupt.com/blog/one-small-step-for-the-web), IMHO. A pair of accomplished writers that I know, 
 [Steve Stroh](https://www.stevestroh.com/) and 
 [Steve Roberts](https://microship.com/), inspired me to fight the 

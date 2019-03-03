@@ -28,6 +28,6 @@ fighting chance of understanding what’s going on.
 (within reason) for free lowered the costs and barriers to entry to the 
 point that it literally took less than 15 minutes to setup and start a blog.
 
-![Cartoon](https://lh3.googleusercontent.com/P86EMf7zvTJcnRr2FGVRFLIQ2eN2aRomUTI-ZNxjCn_PzSvFuwkDoOXwMGvOY-kJj7t-wf7AM6_L8zJjKASe3CaU7RQ9oo61Upk10xOK9ei8NCGJMdrduqtktA45HoecxAlSTGR3WHzFNUdEqpYyEce6lfWKO7o1RcSl809CYXcEiDHaO35pE0i-LCzsMQq9p5y47gqGk-oRFmFFUDTjCYnr9gH8trFeHHGrgY_oRPA-Bw7rA4KF-m-UWvwHglX4WMqCARcWJVkb4opbca3lYqQXpPg-5jCt6Q9FHtBttIglvjMfnYnA5vOAP-FBgMB6xv9z8qRdAi4FZEMfuz5uO1nYkm5tKh9vZ4TZw75xqi9GPFXFhin_ObNYjg61uqVk_wpR7GLsP4mHOQ3Ss0k4zbztuuzO7PYXhVeQQLRhg8ylT8d8XNZMhQzjxI453PzKLsLBS8MlItA7fQB5XJWG48aRS9WYBBlXC4x2ibWkrqjr9P9c2RwCgzl3ZaUheJO0GirwPUKUCm5zpPVtuDoqA7oPVDOjkFLX9S9kvUeUs99civ46pGGd4wL2rFluJa40NDy2JdMtbyAMkvwVD9bS0hSjrqQ3orb1BbbNQfzSCSGV-yNHLSCTy5GMQtNHiZfQO_qmSixR9dmHofRukaQ6HXaGUYaet-o=w480-h458-no "The Real Emergency")
+![Cartoon](https://photos.app.goo.gl/r8YQAmqsqq77KTuH6 "The Real Emergency")
 
 {% include disqus.html %}

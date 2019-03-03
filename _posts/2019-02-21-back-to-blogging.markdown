@@ -28,6 +28,6 @@ fighting chance of understanding what’s going on.
 (within reason) for free lowered the costs and barriers to entry to the 
 point that it literally took less than 15 minutes to setup and start a blog.
 
-![Cartoon](assets/img/RealEmergency.jpg "The Real Emergency")
+![Cartoon](/assets/img/RealEmergency.jpg "The Real Emergency")
 
 {% include disqus.html %}

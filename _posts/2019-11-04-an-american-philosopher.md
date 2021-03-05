@@ -4,8 +4,7 @@ title: "An American Philosopher"
 date: "2019-11-04 20:43:11 -0800"
 type: post
 published: true
-categories:
-- Politics
+tags: politics philosophy
 tags: []
 meta:
   _edit_last: '2666016'

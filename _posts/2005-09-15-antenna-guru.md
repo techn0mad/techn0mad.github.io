@@ -7,8 +7,7 @@ published: true
 slug: antenna-guru
 title: Antenna Guru
 wordpress_id: 241
-categories:
-- Antennas
+tags: hamradio antennas
 ---
 
 Years ago, I was impressed by

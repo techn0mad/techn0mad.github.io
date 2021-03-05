@@ -2,7 +2,7 @@
 layout: post
 title:  "The Expanse"
 date:   2019-03-03 20:32:24 -0800
-categories: scifi
+tags: scifi tv expanse
 ---
 
 As the son of a [science fiction writer](http://www.sf-encyclopedia.com/entry/gadallah_leslie),

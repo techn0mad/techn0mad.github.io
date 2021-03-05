@@ -7,10 +7,7 @@ published: true
 slug: mercury-first-light
 title: Mercury First Light
 wordpress_id: 688
-categories:
-- Ham Radio
-- HPSDR
-- SDR
+tags: hamradio hpsdr sdr ghpsdr
 ---
 
 At long last (2 years?) I finally got my HPSDR Mercury SDR receiver running. After making a final mod to the LPU power supply, the configuration is now running nicely.

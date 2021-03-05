@@ -7,12 +7,9 @@ published: true
 slug: the-broken-glass
 title: The Broken Glass
 wordpress_id: 716
-categories:
-- General
+tags: philosophy zen java
 post_format:
 - Image
-tags:
-- java
 ---
 
 ![The Broken Glass]({{ "/assets/610.jpg" | absolute_url }})

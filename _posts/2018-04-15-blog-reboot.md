@@ -10,8 +10,7 @@ categories:
 - General
 post_format:
 - Image
-tags:
-- jekyll
+tags: jekyll blog ruby git wordpress
 ---
 
 ![Jekyll Sticker]({{ "/assets/jekyll-sticker.jpg" | absolute_url }})

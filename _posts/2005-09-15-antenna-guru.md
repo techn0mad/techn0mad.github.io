@@ -709,8 +709,8 @@ article:
 > for more on matching transformers and on keeping conducted noise from contaminating
 > a "longwire antenna".
 
-Not only is Doty an RF guru, he uses (used?) a NeXT computer, a clear
-sign of superior intelligence ;-).
+Not only is Doty an RF guru, he uses (used?) a [NeXT computer](http://www.johnmiranda.com/next/_DSC6346900.jpg),
+a clear sign of superior intelligence ;-).
 
 While I'm at it, I should also give some credit to John Bryant, Bill
 Bowers and Nick Hall-Patch: Their article on antenna impedance

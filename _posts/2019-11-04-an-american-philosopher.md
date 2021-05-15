@@ -16,7 +16,7 @@ Hoffer](https://en.wikipedia.org/wiki/Eric_Hoffer). Regardless of your
 partisan or religious leanings, many of them seem to resonate strongly
 in our time.
 
-From Eric Hoffer's [_"The True Believer"_](https://en.wikipedia.org/wiki/The_True_Believer)
+From Eric Hoffer's [_"The True Believer"_](https://en.wikipedia.org/wiki/The_True_Believer) (1951):
 
 1.  "Absolute faith corrupts as absolutely as absolute power."
 

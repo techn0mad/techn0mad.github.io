@@ -705,9 +705,9 @@ article:
 > antennas work well across the HF spectrum (and even down to longwave).
 > I don't bother with an ATU.
 > 
-> See "Low Noise Antennas" at "http://www.grove.net/~badx/" for more
-> on matching transformers and on keeping conducted noise from
-> contaminating a "longwire antenna".
+> See "Grounding is key to good reception" at "http://www.naswa.net/badx/grounding.htm"
+> for more on matching transformers and on keeping conducted noise from contaminating
+> a "longwire antenna".
 
 Not only is Doty an RF guru, he uses (used?) a NeXT computer, a clear
 sign of superior intelligence ;-).

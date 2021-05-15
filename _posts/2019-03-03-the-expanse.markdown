@@ -27,10 +27,10 @@ and hollowed out asteroids. It's nice to see someone paying attention
 to the science in science fiction for a change.
 
 I should hasten to ask that the other attractive part of the show
-is that it is set in the relatively near future and does not 
-involve any far-fetched technology or god-like aliens or mysterious
-omnipotent forces. There is a pretty elegant transposition of the 
-old west story to the asteroid belt at work here.
+is that it is set in the relatively near future and does not
+(initially) involve any far-fetched technology or god-like aliens or
+mysterious omnipotent forces. There is a pretty elegant transposition
+of the old west story to the asteroid belt at work here.
 
 ![Banner](/assets/img/ExpanseMain.jpg "The Expanse")
 

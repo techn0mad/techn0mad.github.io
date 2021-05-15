@@ -705,7 +705,7 @@ article:
 > antennas work well across the HF spectrum (and even down to longwave).
 > I don't bother with an ATU.
 > 
-> See "Grounding is key to good reception" at "http://www.naswa.net/badx/grounding.htm"
+> See ["Grounding is key to good reception"](http://www.naswa.net/badx/grounding.htm) at "http://www.naswa.net/badx/grounding.htm"
 > for more on matching transformers and on keeping conducted noise from contaminating
 > a "longwire antenna".
 

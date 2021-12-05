@@ -1,5 +1,5 @@
 ---
-layout: layout.liquid
+layout: base.liquid
 pageTitle: Impressum
 ---
 

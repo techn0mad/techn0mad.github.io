@@ -1,4 +1,5 @@
 {
-    "layout": "layout.liquid",
+    "layout": "base.liquid",
+    "permalink": "{{ page.date | date: '%Y/%m' }}/{{ page.fileSlug }}/",
     "tags": ["posts"]
 }

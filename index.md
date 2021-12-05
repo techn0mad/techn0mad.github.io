@@ -1,12 +1,10 @@
 ---
-layout: layout.liquid
+layout: base.liquid
 pageTitle: Techn0mad
 ---
 
-Hi Mom!
-
-{% for post in collections.posts %}
-## [{{ post.data.pageTitle }}]({{ post.url }})
+{% for post in collections.posts reversed %}
+### [{{ post.data.pageTitle }}]({{ post.url }})
 *{{ post.date | date: "%Y-%m-%d" }}*
 
 {% endfor %}

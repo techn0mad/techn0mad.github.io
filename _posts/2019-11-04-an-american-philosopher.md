@@ -1,13 +1,6 @@
 ---
-layout: post
-title: "An American Philosopher"
-date: "2019-11-04 20:43:11 -0800"
-type: post
-published: true
-tags: politics philosophy
-tags: []
-meta:
-  _edit_last: '2666016'
+date: 2019-11-04 20:43:11-08:00
+pageTitle: "An American Philosopher"
 ---
 
 Recent political events made me contemplate these ideas, ascribed to

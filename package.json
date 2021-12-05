@@ -1,0 +1,24 @@
+{
+  "name": "techn0mad.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techn0mad/techn0mad.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techn0mad/techn0mad.github.io/issues"
+  },
+  "homepage": "https://github.com/techn0mad/techn0mad.github.io#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.3"
+  }
+}

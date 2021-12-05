@@ -1,16 +1,6 @@
 ---
-author: larry
-comments: true
 date: 2018-04-15 17:39:13+00:00
-layout: post
-published: true
-slug: blog-reboot
-title: Blog is Rebooted!
-categories:
-- General
-post_format:
-- Image
-tags: jekyll blog ruby git wordpress
+pageTitle: Blog is Rebooted!
 ---
 
 ![Jekyll Sticker]({{ "/assets/jekyll-sticker.jpg" | absolute_url }})

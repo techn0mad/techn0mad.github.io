@@ -1,6 +1,12 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: layout.liquid
+pageTitle: Techn0mad
 ---
+
+Hi Mom!
+
+{% for post in collections.posts %}
+## [{{ post.data.pageTitle }}]({{ post.url }})
+*{{ post.date | date: "%Y-%m-%d" }}*
+
+{% endfor %}

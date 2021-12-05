@@ -1,8 +1,6 @@
 ---
-layout: post
-title:  "Back to Blogging"
-date:   2019-02-22 17:12:24 -0800
-tags: blog jekyll ruby github
+date: 2019-02-22 17:12:24-08:00
+pageTitle:  "Back to Blogging"
 ---
 
 After a number of years away, I finally got around to setting up a

@@ -1,0 +1,11 @@
+{
+  "title": "Techn0mad",
+  "url": "https://blog.gadallah.com",
+  "baseurl": "",
+  "repo": "https://github.com/techn0mad/techn0mad.github.io.git",
+  "comments": false,
+  "author": {
+    "name": "Larry Gadallah"
+  },
+  "og_locale": "en_US"
+}

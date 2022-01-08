@@ -1,18 +1,9 @@
 ---
-author: gadallah
-comments: true
-date: 2013-01-03 23:30:36+00:00
-layout: post
-published: true
-slug: the-broken-glass
+date: "2013-01-03"
 title: The Broken Glass
-wordpress_id: 716
-tags: philosophy zen java
-post_format:
-- Image
 ---
 
-![The Broken Glass]({{ "/assets/610.jpg" | absolute_url }})
+![The Broken Glass]({{ "/assets/610.jpg" }})
 
 Struggling to enjoy my time with my buddy Java, who has just been diagnosed with Lymphoma. He's lived to a ripe old age in any case, but I'm still distressed to see him suffer and to contemplate his eventual departure.
 

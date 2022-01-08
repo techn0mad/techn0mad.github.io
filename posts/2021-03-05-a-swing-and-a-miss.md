@@ -1,7 +1,5 @@
 ---
-layout: post
 title: "A Swing and a Miss"
-tags: wiki javascript github
 ---
 
 After a long hiatus, I wanted to look into hosting a 

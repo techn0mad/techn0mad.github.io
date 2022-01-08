@@ -1,8 +1,6 @@
 ---
-layout: post
-title:  "The Expanse"
-date:   2019-03-03 20:32:24 -0800
-tags: scifi tv expanse
+date: 2019-03-03 20:32:24-08:00
+pageTitle: "The Expanse"
 ---
 
 As the son of a [science fiction writer](http://www.sf-encyclopedia.com/entry/gadallah_leslie),

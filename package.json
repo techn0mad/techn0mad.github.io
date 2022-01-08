@@ -1,0 +1,25 @@
+{
+  "name": "techn0mad.github.io",
+  "version": "1.0.0",
+  "description": "Techn0mad",
+  "main": ".eleventy.js",
+  "scripts": {
+    "build": "npx @11ty/eleventy",
+    "serve": "npx @11ty/eleventy --serve",
+    "clean": "rm -rf _site"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techn0mad/techn0mad.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/techn0mad/techn0mad.github.io.git/issues"
+  },
+  "homepage": "https://github.com/techn0mad/techn0mad.github.io.git#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}

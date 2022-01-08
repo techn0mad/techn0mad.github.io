@@ -1,29 +1,11 @@
-const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
-
 module.exports = function(eleventyConfig) {
-  // Aliases are in relation to the _includes folder
+  // copy static assets straight through to final site
+  eleventyConfig.addPassthroughCopy('assets')
 
-  // Enable syntax highlighting
-  eleventyConfig.addPlugin(syntaxHighlight);
 
-  // Copy the `assets` directory to the compiled site folder
-  eleventyConfig.addPassthroughCopy('assets');
-  eleventyConfig.addPassthroughCopy('CNAME');
-
-  return {
-    dir: {
-      input: "./",      // Equivalent to Jekyll's source property
-      output: "./_site" // Equivalent to Jekyll's destination property
-    },
-    passthroughFileCopy: true
-  };
-};
-
-module.exports = function (eleventy) {
-  
-  // Add related posts
-  eleventy.addLiquidShortcode("related", (title, url) => `
-  <a href="${url}" class="related">${title}</a>
-  `);
-
+  // if you're using a custom domain, add the domain name
+  // to a CNAME file at the root of your project and
+  // uncomment this line. This will ensure that GitHub Pages
+  // knows which custom domain to use with your site
+  // eleventyConfig.addPassthroughCopy('CNAME')
 };

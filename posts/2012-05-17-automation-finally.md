@@ -1,6 +1,6 @@
 ---
-date: 2012-05-17 06:26:17+00:00
-pageTitle: Automation, finally
+date: "2012-05-17"
+title: Automation, finally
 ---
 
 After many years, I've finally gotten around to automating some antenna system measurements. I spent some time a few years ago trying to isolate my antenna from my house (and my neighbor's houses) to minimize noise (see John Doty's excellent Usenet posting about this below), but I never had a real way to measure how effective this has been.

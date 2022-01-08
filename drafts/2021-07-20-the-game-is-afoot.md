@@ -1,5 +1,5 @@
 ---
-pageTitle: "The Game is Afoot"
+title: "The Game is Afoot"
 ---
 
 

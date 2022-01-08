@@ -1,5 +1,5 @@
 ---
-pageTitle: "A Swing and a Miss"
+title: "A Swing and a Miss"
 ---
 
 After a long hiatus, I wanted to look into hosting a 

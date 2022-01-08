@@ -1,6 +1,6 @@
 ---
-date: 2005-09-15 19:38:59+00:00
-pageTitle: Antenna Guru
+date: "2005-09-15"
+title: Antenna Guru
 ---
 
 Years ago, I was impressed by

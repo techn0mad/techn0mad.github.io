@@ -1,6 +1,6 @@
 ---
-date: 2012-05-28 02:08:39+00:00
-pageTitle: Getting ready for "First Light"
+date: "2012-05-28"
+title: Getting ready for "First Light"
 ---
 
 When a telescope is commissioned, the first time light from the stars enters the instrument is called "first light". While ham radios aren't telescopes, I'm getting quite excited at the notion of connecting an antenna to my HPSDR setup for the first time this long weekend.

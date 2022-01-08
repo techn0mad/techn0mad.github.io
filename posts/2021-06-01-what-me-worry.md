@@ -1,5 +1,5 @@
 ---
-pageTitle: "What, Me Worry?"
+title: "What, Me Worry?"
 ---
 
 ## A Plague of Ransomware

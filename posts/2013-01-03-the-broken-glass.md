@@ -1,6 +1,6 @@
 ---
-date: 2013-01-03 23:30:36+00:00
-pageTitle: The Broken Glass
+date: "2013-01-03"
+title: The Broken Glass
 ---
 
 ![The Broken Glass]({{ "/assets/610.jpg" | absolute_url }})

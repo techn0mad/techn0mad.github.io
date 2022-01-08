@@ -1,6 +1,6 @@
 ---
-date: 2018-04-15 17:39:13+00:00
-pageTitle: Blog is Rebooted!
+date: "2018-04-15"
+title: Blog is Rebooted!
 ---
 
 ![Jekyll Sticker]({{ "/assets/jekyll-sticker.jpg" | absolute_url }})

@@ -1,5 +1,5 @@
 ---
-pageTitle:  "Whither SDR?"
+title:  "Whither SDR?"
 ---
 
 As a long-time devotee of the concept of software defined radio (SDR), I remain somewhat discouraged

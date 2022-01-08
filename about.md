@@ -1,6 +1,6 @@
 ---
-layout: base.liquid
-pageTitle: Impressum
+title: Impressum
+permalink: /about/
 ---
 
 Publisher: Larry Gadallah<br/>

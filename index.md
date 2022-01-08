@@ -1,10 +1,4 @@
 ---
-layout: base.liquid
-pageTitle: Techn0mad
+layout: homepage.njk
 ---
 
-{% for post in collections.posts reversed %}
-### [{{ post.data.pageTitle }}]({{ post.url }})
-*{{ post.date | date: "%Y-%m-%d" }}*
-
-{% endfor %}

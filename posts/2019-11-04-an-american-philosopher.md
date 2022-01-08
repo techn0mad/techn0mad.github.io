@@ -1,6 +1,6 @@
 ---
-date: 2019-11-04 20:43:11-08:00
-pageTitle: "An American Philosopher"
+date: "2019-11-04"
+title: "An American Philosopher"
 ---
 
 Recent political events made me contemplate these ideas, ascribed to

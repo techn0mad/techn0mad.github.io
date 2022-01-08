@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+   <meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+<meta name="Description" content="" />
+<title>Squishy RF</title>
+<link href="https://fonts.googleapis.com/css?family=Nunito:300,400,700" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@ajusa/lit@latest/dist/lit.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@ajusa/lit@latest/dist/util.css" />
+  </head>
+  <body>
+    <div class="c">
+      <header class="mb3">
+  <h1 class="tc mb0"><a href="/">Techn0mad</a></h1>
+</header>
+
+      <h1>Squishy RF</h1>
+      <div><h1>Another Sad Story of Common Mode</h1>
+<p>I have been running a <a href="http://kiwisdr.com/">KiwiSDR</a> for a number of years
+since I arrived on Orcas Island.  When it was first set up with a nice
+<a href="https://en.wikipedia.org/wiki/Beverage_antenna">Beverage antenna</a>
+running East-West (thanks Teresia and Kyle!) many people commented on how
+useful it was and how well they could hear things on it.</p>
+<p>The years have gone by, and for various reasons, the antenna no longer
+qualifies as a Beverage, just a random wire, and it seemed like the
+SDR wasn't working too well anymore. Doing a quick check seemed to indicate
+that it only seemed to be receiving on the lower bands and MW/LW.</p>
+<p>One of the fascinating things about the KiwiSDR is that it seems to be
+half test equipment and half radio. The
+<a href="http://rx.linkfanel.net/snr.html">built-in SNR measurement capability</a>
+seems to be taylor-made to drive people crazy trying to
+improve their &quot;scores&quot; and move up the list (although I'd tend to
+remove any sites that do <em>not</em> filter out the MW band, because
+all of those nation-wide advertising emissions just drive up the &quot;S&quot; in
+&quot;SNR&quot;).</p>
+<p>Since I'm planning to do a more &quot;permanent&quot; and &quot;professional&quot; installation
+of a new Beverage antenna this fall, and I also have a brand new, never
+installed <a href="https://www.wellbrook.uk.com/loopantennas/pdf/ALA100LN-M.pdf">Wellbrook active loop antenna</a>,
+on this past weekend I decided it was time to bring in the feedline and see
+what shape it was in.</p>
+<h2>DC Checks</h2>
+<p>Basic continuity tests showed that things were in order. Shield resistance
+of the ~400 feet of <a href="https://en.wikipedia.org/wiki/RG-6">RG-6 equivalent</a>
+was ~0.1 ohm. Center conductor to center conductor was ~1.3 ohms.</p>
+<h2>RF Ingress</h2>
+<p>This is where we use the receiver to check the cable. The waterfall display
+for the KiwiSDR is amazingly useful for this. We set the &quot;span&quot; to 0-4 MHz
+and then check if we see anything. Considering we have a feedline connected
+to nothing, we shouldn't see anything. Reality looks a bit different:</p>
+<table>
+<thead>
+<tr>
+<th>Condition</th>
+<th>Result</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>No input</td>
+<td><img src="/assets/img/common_mode_2_2021-07-12.png" alt="No input" title="No input"></td>
+</tr>
+<tr>
+<td>Open feedline</td>
+<td><img src="/assets/img/common_mode_1_2021-07-12.png" alt="Open feedline" title="Open feedline"></td>
+</tr>
+<tr>
+<td>Terminated feedline</td>
+<td><img src="/assets/img/common_mode_4_2021-07-12.png" alt="Terminated feedline" title="Terminated feedline"></td>
+</tr>
+<tr>
+<td>Open feedline, common mode choke</td>
+<td><img src="/assets/img/common_mode_6_2021-07-12.png" alt="Open feedline, common mode choke" title="Open feedline, common mode choke"></td>
+</tr>
+<tr>
+<td>Terminated feedline, common mode choke</td>
+<td><img src="/assets/img/common_mode_7_2021-07-12.png" alt="Terminated feedline, common mode choke" title="Terminated feedline, common mode choke"></td>
+</tr>
+</tbody>
+</table>
+<h2>Discussion</h2>
+<p>As usual, this probably boils down to
+<a href="https://groups.google.com/g/rec.radio.shortwave/c/O4NvXCQT748/m/OrJkJ7aL3hwJ">common mode noise</a>
+getting introduced into the system. As the feedline is also very long, and
+our ground here on &quot;the rock&quot; is very poor, it's acting as an antenna too.</p>
+<p>When all cables are removed (&quot;No input&quot; above), we don't see any signals,
+so that rules out ingress via power, Ethernet, or GPS Antenna lines.</p>
+<p>The biggest difference seems to come from adding the
+<a href="https://cdn3.bigcommerce.com/s-4q7cv/product_images/uploaded_images/59f4efa62cbf4-1116d-choking.jpg">common mode choke</a>,
+which increases the impedance along the shield of the coax to non-differential (i.e.
+common mode) signals. This greatly reduces the endless amounts of EMI/RFI &quot;cruft&quot;
+from stuff in the shack getting out anywhere near the antenna end of the feedline.
+Even so, a few of the local MW broadcasters and a lot of LW &quot;hash&quot; can still be
+seen. Really serious persons would introduce a second common mode choke at the antenna end
+of the feedline and perhaps add a separate ground connection there too.</p>
+<p>The next test will involve replacing the ~400 foot feedline with one that is
+no more than ~200 feet long, as this is the limit for powering the Wellbrook
+loop via the coax. Also, it would probably be good to get some serious
+<a href="http://audiosystemsgroup.com/GroundingAndAudio.pdf">bonding and grounding</a>
+going on in the shack too.</p>
+</div>
+      <hr /> 
+
+      <div>
+        <a href="/">← Back</a>
+      </div>
+    </div>
+  </body>
+</html>

@@ -7,5 +7,5 @@ module.exports = function(eleventyConfig) {
   // to a CNAME file at the root of your project and
   // uncomment this line. This will ensure that GitHub Pages
   // knows which custom domain to use with your site
-  // eleventyConfig.addPassthroughCopy('CNAME')
+  eleventyConfig.addPassthroughCopy('CNAME')
 };

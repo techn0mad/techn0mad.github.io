@@ -7,7 +7,7 @@
     "build": "env NODE_ENV=production npx @11ty/eleventy --pathprefix 'techn0mad'",
     "serve": "npx @11ty/eleventy --serve",
     "debug": "DEBUG=* npx @11ty/eleventy",
-    "test": "jest"
+    "test": "jest",
     "clean": "rm -rf _site"
   },
   "repository": {

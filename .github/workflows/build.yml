@@ -26,7 +26,6 @@ jobs:
         run: |
           npm ci
           npm run build   
-          npm run add-domain       
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

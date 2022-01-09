@@ -8,4 +8,6 @@ module.exports = function(eleventyConfig) {
   // uncomment this line. This will ensure that GitHub Pages
   // knows which custom domain to use with your site
   eleventyConfig.addPassthroughCopy('CNAME')
+
+  eleventyConfig.addPassthroughCopy('favicon.ico')
 };

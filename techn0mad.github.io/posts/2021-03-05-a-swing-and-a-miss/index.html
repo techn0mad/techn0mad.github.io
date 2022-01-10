@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+   <meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+<meta name="Description" content="" />
+<title>A Swing and a Miss</title>
+<link href="https://fonts.googleapis.com/css?family=Nunito:300,400,700" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@ajusa/lit@latest/dist/lit.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@ajusa/lit@latest/dist/util.css" />
+  </head>
+  <body>
+    <div class="c">
+      <header class="mb3">
+  <h1 class="tc mb0"><a href="https://github.com/techn0mad/techn0mad.github.io">Techn0mad</a></h1>
+</header>
+
+      <h1>A Swing and a Miss</h1>
+      <div><p>After a long hiatus, I wanted to look into hosting a
+<a href="https://web.archive.org/web/20020430181259/http://c2.com/cgi/wiki?WikiDesignPrinciples">Wiki</a>.
+I ended up looking at some pages like <a href="https://en.wikipedia.org/wiki/List_of_wiki_software">this</a>.</p>
+<p>I wanted to meet the following requirements:</p>
+<ul>
+<li>Data stored in the cloud, under version control (git)</li>
+<li>Handles <a href="https://daringfireball.net/projects/markdown/">Markdown formatting</a>, as well as code</li>
+</ul>
+<p>I came across <a href="https://tiddlywiki.com/">TiddlyWiki</a>, which is an amazing invention for the following reasons:</p>
+<ul>
+<li>The wiki is written in <a href="https://www.javascript.com/">Javascript</a>, and since almost all modern web browsers are effectively just <a href="https://softwareengineeringdaily.com/2018/10/03/javascript-and-the-inner-workings-of-your-browser/">Javascript VMs</a> these days, there is no need for any intermediate processing or interpretation</li>
+<li>The wiki is a <a href="https://en.wikipedia.org/wiki/Quine_(computing)">Quine</a>, which is an obscure computer science concept, whereby running a piece of code produces its own code as output</li>
+<li>Therefore, deploying the wiki is as simple as loading the (single) Javascript file into a browser</li>
+</ul>
+<p>I was able to get it running hosted on <a href="https://pages.github.com/">GitHub Pages</a>, but I found a few obstacles:</p>
+<ul>
+<li>There is no practical security available. The Wiki can be marked as read-only for everyone, or open for everyone.</li>
+<li>As the Wiki grows, so does the Javascript file that contains it. This results in managing a large git blob, that gets slower and slower as more commits are made to it.</li>
+<li>It does not really support Markdown formatted posts directly, and the Markdown plugin did not seem to be entirely compliant</li>
+</ul>
+</div>
+      <hr /> 
+
+      <div>
+        <a href="/techn0mad.github.io/">← Back</a>
+      </div>
+    </div>
+  </body>
+</html>

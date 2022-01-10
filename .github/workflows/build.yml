@@ -35,5 +35,4 @@ jobs:
 
       - name: Show output directory
         run: |
-          ls -al ./_site
-          ls -al ./techn0mad.github.io/_site
+          ls -alR ./techn0mad.github.io/_site

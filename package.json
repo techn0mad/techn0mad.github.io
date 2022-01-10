@@ -4,11 +4,11 @@
   "description": "Techn0mad",
   "main": ".eleventy.js",
   "scripts": {
-    "build": "npx eleventy --output=_site/techn0mad.github.io --pathprefix=/techn0mad.github.io",
+    "build": "npx eleventy --output=techn0mad.github.io/_site --pathprefix=/techn0mad.github.io",
     "serve": "npx eleventy --serve",
     "debug": "DEBUG=* npx eleventy",
     "test": "jest",
-    "clean": "rm -rf _site"
+    "clean": "rm -rf techn0mad.github.io/_site"
   },
   "repository": {
     "type": "git",

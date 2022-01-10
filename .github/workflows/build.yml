@@ -32,3 +32,8 @@ jobs:
         with:
           publish_dir: ./_site
           github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Show output directory
+        run: |
+          ls -al ./_site
+          ls -al ./techn0mad.github.io/_site

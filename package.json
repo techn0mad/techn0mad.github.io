@@ -4,7 +4,7 @@
   "description": "Techn0mad",
   "main": ".eleventy.js",
   "scripts": {
-    "build": "npx eleventy --pathprefix='/'",
+    "build": "npx eleventy --output=_site/techn0mad.github.io --pathprefix=/techn0mad.github.io",
     "serve": "npx eleventy --serve",
     "debug": "DEBUG=* npx eleventy",
     "test": "jest",
@@ -18,9 +18,9 @@
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/techn0mad/techn0mad.github.io.git/issues"
+    "url": "https://github.com/techn0mad/techn0mad.github.io/issues"
   },
-  "homepage": "https://github.com/techn0mad/techn0mad.github.io.git#readme",
+  "homepage": "https://github.com/techn0mad/techn0mad.github.io#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1"
   },

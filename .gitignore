@@ -1,7 +1,4 @@
-# node modules
-node_modules
-
-# eleventy output
-techn0mad.github.io
 _site
+.sass-cache
+.jekyll-metadata
 .DS_Store

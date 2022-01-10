@@ -1,6 +1,13 @@
 ---
-date: "2012-05-17"
+author: gadallah
+comments: true
+date: 2012-05-17 06:26:17+00:00
+layout: post
+published: true
+slug: automation-finally
 title: Automation, finally
+wordpress_id: 607
+tags: antennas hamradio software python
 ---
 
 After many years, I've finally gotten around to automating some antenna system measurements. I spent some time a few years ago trying to isolate my antenna from my house (and my neighbor's houses) to minimize noise (see John Doty's excellent Usenet posting about this below), but I never had a real way to measure how effective this has been.
@@ -15,7 +22,7 @@ There's still lots to do, with both the antenna system and the automation script
   * Have the script automatically bypass the AM and SWBC bands
   * Find some way to automatically attach a timestamp to the graphs
 
-![VE6VQ Site Noise Profile]({{ "/assets/site_survey_2012_05_17.png" }})
+![VE6VQ Site Noise Profile]({{ "/assets/site_survey_2012_05_17.png" | absolute_url }})
 
 At the very least, this is a good way to document the status of the antenna system, so that if anything changes, it can be easily detected. I notice a few interesting things about the plot: There is more energy around the resonance point of the antenna (~3.5 MHz), the upper (20 MHz) and lower (100 kHz) cutoff points of the 1:1 balun are visible, the gap (~12 dB) between the noise floor and when the AGC engages is clearly visible.
 

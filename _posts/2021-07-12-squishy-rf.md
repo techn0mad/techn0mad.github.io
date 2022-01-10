@@ -1,5 +1,7 @@
 ---
+layout: post
 title: "Squishy RF"
+tags: blog sdr kiwisdr rf antennas emi rfi
 ---
 
 

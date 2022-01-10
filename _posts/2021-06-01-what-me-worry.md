@@ -1,8 +1,10 @@
 ---
+layout: post
 title: "What, Me Worry?"
+tags: internet computer security
 ---
 
-## A Plague of Ransomware
+# A Plague of Ransomware
 
 ![Alfred E. Neuman](/assets/alfred_e.jpg){:width="50%" height="50%"}
 
@@ -12,13 +14,7 @@ growing in Russia, and seeing the following tweet from computer security guru Ra
 Nicole Perlroth's very frightening book
 ["This Is How They Tell Me the World Ends: The Cyberweapons Arms Race"](https://www.barnesandnoble.com/w/this-is-how-they-tell-me-the-world-ends-nicole-perlroth/1136275598), I have to comment:
 
-<blockquote class="twitter-tweet">
-<p lang="en" dir="ltr">
-If you haven&#39;t already exercised emergency restores from scratch, with the drill sgt at the stop watch, don&#39;t whine about ransomware</p>&mdash; Ralph Langner (@langnergroup)
-<a href="https://twitter.com/langnergroup/status/1399270431991939074?ref_src=twsrc%5Etfw">May 31, 2021</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you haven&#39;t already exercised emergency restores from scratch, with the drill sgt at the stop watch, don&#39;t whine about ransomware</p>&mdash; Ralph Langner (@langnergroup) <a href="https://twitter.com/langnergroup/status/1399270431991939074?ref_src=twsrc%5Etfw">May 31, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
 ## Computer Security Basics
 
 1. Regularly Update Router Firmware
@@ -28,8 +24,8 @@ If you haven&#39;t already exercised emergency restores from scratch, with the d
 5. Regularly test restores from backups
 
 I'm fond of pointing out that I'm far more concerned about restores than backups, as anyone who has struggled and 
-failed to perform a restore from a so-called backup (sometimes known as a Heisenberg backup) can attest.
-However, when it comes to ransomware, particularly as currently practiced, this is definitely not sufficient.
+failed to perform a restore from a so-called backup can attest. However, when it comes to ransomware, particularly 
+as currently practiced, this is definitely not sufficient.
 
 ## Computer Security (Apparently) Not-so-Basics
 

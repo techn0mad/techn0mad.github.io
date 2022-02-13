@@ -7,7 +7,7 @@ published: true
 slug: antenna-guru
 title: Antenna Guru
 wordpress_id: 241
-tags: hamradio antennas
+tags: hamradio antennas rfi
 ---
 
 Years ago, I was impressed by

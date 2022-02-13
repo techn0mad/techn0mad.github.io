@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Whither SDR?"
-tags: hamradio sdr
+tags: hamradio sdr hpsdr
 ---
 
 As a long-time devotee of the concept of software defined radio (SDR), I remain somewhat discouraged

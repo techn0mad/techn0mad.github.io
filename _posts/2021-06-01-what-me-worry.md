@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What, Me Worry?"
-tags: internet computer security
+tags: internet network computer security
 ---
 
 # A Plague of Ransomware

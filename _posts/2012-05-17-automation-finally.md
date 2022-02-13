@@ -7,7 +7,7 @@ published: true
 slug: automation-finally
 title: Automation, finally
 wordpress_id: 607
-tags: antennas hamradio software python
+tags: antennas hamradio software python rfi
 ---
 
 After many years, I've finally gotten around to automating some antenna system measurements. I spent some time a few years ago trying to isolate my antenna from my house (and my neighbor's houses) to minimize noise (see John Doty's excellent Usenet posting about this below), but I never had a real way to measure how effective this has been.

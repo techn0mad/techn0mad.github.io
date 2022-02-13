@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What's Next?"
-tags: blog
+tags: blog jekyll github ruby
 ---
 
 # Blog Fatigue

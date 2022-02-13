@@ -4,7 +4,6 @@ title: "Squishy RF"
 tags: blog sdr kiwisdr rf antennas emi rfi
 ---
 
-
 # Another Sad Story of Common Mode
 
 I have been running a [KiwiSDR](http://kiwisdr.com/) for a number of years 

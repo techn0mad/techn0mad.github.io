@@ -9,7 +9,7 @@ At field day in 2017, some good friends volunteered to setup an ad-hoc
 my QTH, running straight east-west for about 150 M. That antenna
 stayed up for almost 5 years, despite being put together in a hurry. A
 lot of that time, it was left connected to my [KiwiSDR
-receiver](https://kiwisdr.gadallah.net:8073) and I got all kinds of
+receiver](http://kiwisdr.gadallah.net:8073) and I got all kinds of
 glowing reports of how well it worked and how quiet my site was.
 
 I spent the afternoon today bushwhacking my way through some of the

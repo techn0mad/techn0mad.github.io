@@ -28,10 +28,11 @@ jacket. So far, it appears both stealthy and indestructable.
 
 Now I need to rebuild the matching transformer. I bought parts to do
 this 5-6 years ago and never got around to it. I wanted to follow
-W8JI's recipe for the roughly 9:1 step-down transformers needed for
-Beverage antennas. The part I've been fixated on is finding some
-suitably small wire with a tough jacket, like the Kynar wire that used
-to be used for wire-wrap projects in the past.
+[W8JI's recipe](http://www.w8ji.com/core_selection.htm) for the
+roughly 9:1 step-down transformers needed for Beverage antennas. The
+part I've been fixated on is finding some suitably small wire with a
+tough jacket, like the Kynar wire that used to be used for wire-wrap
+projects in the past.
 
 Once this one is in place, I will take a stab at building a shorter
 (120-150 M) one running orthogonal to this one, so I can get

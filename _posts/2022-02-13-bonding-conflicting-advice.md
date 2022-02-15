@@ -1,17 +1,17 @@
 ---
 layout: post
 title: "Conflicting Advice Regarding Bonding and Grounding"
-tags: hamradio antennas rfi
+tags: hamradio antennas rfi grounding bonding
 ---
 
-# Introduction
+![Electrical grounding](/assets/img/grounding.jpg "Electrical grounding")
 
 Given that most hams suffer to some degree of self-inflicted QRM
 caused by their own equipment and wiring, many are naturally quite
 interested in information and advice about how to find and mitigate
 this problem.
 
-# Noted Authorities
+## Noted Authorities
 
 Two notable authors on this topic are Ward Silver, N0AX, who wrote a
 whole book for ARRL about bonding and grounding: ["Grounding and
@@ -22,7 +22,7 @@ mitigation and related topics, including one entitled ["Power,
 Grounding, Bonding, and Audio for Ham Radio - Safety, Hum, Buzz, and
 RFI"](http://k9yc.com/GroundingAndAudio.pdf).
 
-# The Problem
+## The Problem
 
 The basic problem is that for almost all typical amateur radio
 equipment, the connections between various pieces of equipment are
@@ -34,11 +34,11 @@ another device.
 
 ![K9YC Ground Noise Plot](/assets/img/K9YCGroundNoise.png "Typical Noise Spectrum on \"Ground\"")
 
-# The Solution
+## The Solution
 
 The two authors suggest different solutions to this problem:
 
-## Ward Silver, N0AX
+### Ward Silver, N0AX
 
 N0AX suggests the following:
 
@@ -59,7 +59,7 @@ N0AX suggests the following:
 > convenient, use of a bus makes the bonding path longer and somewhat
 > less effective at reducing power frequency noise.[1]
 
-## James W. Brown, K9YC
+### James W. Brown, K9YC
 
 Whereas K9YC makes the following statement:
 
@@ -88,7 +88,7 @@ connections between equipment to the absolute minimum length.
 
 This leads to the question: Who's right?
 
-# References
+## References
 
 1. ARRL Inc.; Silver (N0AX), Ward. ["Grounding and Bonding for the Radio Amateur"](https://www.arrl.org/shop/Grounding-and-Bonding-for-the-Radio-Amateur-2nd-Edition/). ARRL, the national association for Amateur Radio. Kindle Edition.
 2. ["Power, Grounding, Bonding and Audio for Ham Radio"](http://k9yc.com/GroundingAndAudio.pdf), pages 112-113, retrieved 2022-02-13

@@ -10,11 +10,26 @@ wordpress_id: 607
 tags: antennas hamradio software python rfi
 ---
 
-After many years, I've finally gotten around to automating some antenna system measurements. I spent some time a few years ago trying to isolate my antenna from my house (and my neighbor's houses) to minimize noise (see John Doty's excellent Usenet posting about this below), but I never had a real way to measure how effective this has been.
+![AOR AR-7030+](/assets/img/aor-ar-7030p.jpg "AOR AR-7030+")
 
-Now thanks to [hamlib](http://sourceforge.net/projects/hamlib/) and it's Python plug-in binding, [gnuplot](http://www.gnuplot.info/), and my reliable [AOR AR7030+](http://www.dxing.info/equipment/aor_ar7030.dx) receiver, I was able to quickly and easily script a way to measure the noise levels across the LF, MF and HF ranges. The graph here shows the first set of runs, with the input grounded, and with my (approximately) 80M quarter wave vertical at mid-day and at sunset.
+After many years, I've finally gotten around to automating some
+antenna system measurements. I spent some time a few years ago trying
+to isolate my antenna from my house (and my neighbor's houses) to
+minimize noise (see John Doty's excellent Usenet posting about this
+below), but I never had a real way to measure how effective this has
+been.
 
-There's still lots to do, with both the antenna system and the automation scripts:
+Now thanks to [hamlib](http://sourceforge.net/projects/hamlib/) and
+it's Python plug-in binding, [gnuplot](http://www.gnuplot.info/), and
+my reliable [AOR
+AR7030+](http://www.dxing.info/equipment/aor_ar7030.dx) receiver, I
+was able to quickly and easily script a way to measure the noise
+levels across the LF, MF and HF ranges. The graph here shows the first
+set of runs, with the input grounded, and with my (approximately) 80M
+quarter wave vertical at mid-day and at sunset.
+
+There's still lots to do, with both the antenna system and the
+automation scripts:
 
   * Replace old 50 ohm coax with direct bury, fully shielded 75 ohm coax
   * Fix and enhance grounding at antenna and house ends of the coax run
@@ -24,7 +39,13 @@ There's still lots to do, with both the antenna system and the automation script
 
 ![VE6VQ Site Noise Profile]({{ "/assets/site_survey_2012_05_17.png" | absolute_url }})
 
-At the very least, this is a good way to document the status of the antenna system, so that if anything changes, it can be easily detected. I notice a few interesting things about the plot: There is more energy around the resonance point of the antenna (~3.5 MHz), the upper (20 MHz) and lower (100 kHz) cutoff points of the 1:1 balun are visible, the gap (~12 dB) between the noise floor and when the AGC engages is clearly visible.
+At the very least, this is a good way to document the status of the
+antenna system, so that if anything changes, it can be easily
+detected. I notice a few interesting things about the plot: There is
+more energy around the resonance point of the antenna (~3.5 MHz), the
+upper (20 MHz) and lower (100 kHz) cutoff points of the 1:1 balun are
+visible, the gap (~12 dB) between the noise floor and when the AGC
+engages is clearly visible.
 
     Low Noise Antenna Connection
 

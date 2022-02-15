@@ -5,8 +5,6 @@ tags: blog jamstack javascript
 ---
 
 
-# A Moving Target
-
 Here we are in another new year with not enough blogging going on, and 
 I am somewhat dismayed to find that the platform that this blog is based
 on ([Jekyll](https://jekyllrb.com/)) is now apparently in [trouble](https://www.theregister.com/2021/09/14/future_of_jekyll_project_engine/). 

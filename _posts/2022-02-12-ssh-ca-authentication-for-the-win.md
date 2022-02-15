@@ -4,8 +4,6 @@ title: "Password-less SSH with a Certificate Authority (CA)"
 tags: openssh tls certificates security authentication authorization
 ---
 
-## Introduction
-
 An advantage of key-based access to servers with SSH is to allow
 password-less SSH logins. However, these kinds of arrangements have
 been very difficult to manage at any realistic scale, because in order

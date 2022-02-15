@@ -5,6 +5,8 @@ date:   2019-03-03 20:32:24 -0800
 tags: scifi tv expanse
 ---
 
+![Banner](/assets/img/ExpanseMain.jpg "The Expanse")
+
 As the son of a [science fiction writer](http://www.sf-encyclopedia.com/entry/gadallah_leslie),
 and someone who grew up in a family where everyone read science 
 fiction, I am frequently embarrased at how little of it I get 
@@ -31,7 +33,3 @@ is that it is set in the relatively near future and does not
 (initially) involve any far-fetched technology or god-like aliens or
 mysterious omnipotent forces. There is a pretty elegant transposition
 of the old west story to the asteroid belt at work here.
-
-![Banner](/assets/img/ExpanseMain.jpg "The Expanse")
-
-{% include disqus.html %}

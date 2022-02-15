@@ -4,8 +4,6 @@ title: "What, Me Worry?"
 tags: internet network computer security
 ---
 
-# A Plague of Ransomware
-
 ![Alfred E. Neuman](/assets/alfred_e.jpg){:width="50%" height="50%"}
 
 After reading and hearing more and more of what appears to be a 

@@ -4,6 +4,8 @@ title: "New Beverage Antenna Finally Under Construction"
 tags: hamradio antennas
 ---
 
+![East end of Beverage](/assets/img/EastBevEnd.jpg "East end of Beverage")
+
 At field day in 2017, some good friends volunteered to setup an ad-hoc
 [Beverage antenna](https://en.wikipedia.org/wiki/Beverage_antenna) at
 my QTH, running straight east-west for about 150 M. That antenna
@@ -23,8 +25,6 @@ I used some highly recommended [wire from Davis
 RF](https://www.davisrf.com/antenna-wire/polystealth.php). It is 18
 gauge stranded copperclad steel wire, with a heavy polyetheline
 jacket. So far, it appears both stealthy and indestructable.
-
-![East end of Beverage](/assets/img/EastBevEnd.jpg "East end of Beverage")
 
 Now I need to rebuild the matching transformer. I bought parts to do
 this 5-6 years ago and never got around to it. I wanted to follow

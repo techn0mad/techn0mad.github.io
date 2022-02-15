@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Squishy RF"
+title: "Another Sad Story of Common Mode"
 tags: blog sdr kiwisdr rf antennas emi rfi
 ---
-
-# Another Sad Story of Common Mode
 
 I have been running a [KiwiSDR](http://kiwisdr.com/) for a number of years 
 since I arrived on Orcas Island.  When it was first set up with a nice 
@@ -26,11 +24,12 @@ remove any sites that do _not_ filter out the MW band, because
 all of those nation-wide advertising emissions just drive up the "S" in
 "SNR").
 
-Since I'm planning to do a more "permanent" and "professional" installation
-of a new Beverage antenna this fall, and I also have a brand new, never
-installed [Wellbrook active loop antenna](https://www.wellbrook.uk.com/loopantennas/pdf/ALA100LN-M.pdf), 
-on this past weekend I decided it was time to bring in the feedline and see 
-what shape it was in.
+Since I'm planning to do a more "permanent" installation of a new
+Beverage antenna this fall, and I also have a brand new, never
+installed [Wellbrook active loop
+antenna](https://www.wellbrook.uk.com/loopantennas/pdf/ALA100LN-M.pdf),
+on this past weekend I decided it was time to bring in the feedline
+and see what shape it was in.
 
 ## DC Checks
 

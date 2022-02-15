@@ -25,6 +25,7 @@ url: "https://blog.gadallah.com" # the base hostname & protocol for your site, e
 twitter_username: techn0mad
 github_username:  techn0mad
 google_analytics: UA-28057007-1
+show_excerpts: true
 
 # Build settings
 markdown: kramdown

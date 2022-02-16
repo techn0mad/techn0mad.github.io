@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "Password-less SSH with a Certificate Authority (CA)"
+title: "Password-less SSH with a Certificate Authority (CA) and OpenSSH"
 tags: openssh tls certificates security authentication authorization
 ---
+
+![OpenSSH logo](/assets/img/openssh.gif "OpenSSH logo")
 
 An advantage of key-based access to servers with SSH is to allow
 password-less SSH logins. However, these kinds of arrangements have

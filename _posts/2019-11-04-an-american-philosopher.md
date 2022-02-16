@@ -10,6 +10,8 @@ meta:
   _edit_last: '2666016'
 ---
 
+![Eric Hoffer](/assets/img/EricHoffer.jpg "Eric Hoffer")
+
 Recent political events made me contemplate these ideas, ascribed to
 someone described as America's last great philosopher, [Eric
 Hoffer](https://en.wikipedia.org/wiki/Eric_Hoffer). Regardless of your

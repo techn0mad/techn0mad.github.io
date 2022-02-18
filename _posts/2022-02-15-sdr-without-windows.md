@@ -59,6 +59,7 @@ SDRs.
 | [SDR Angel](https://www.sdrangel.org/) | 6.19.0 | 2022/02/07 | 38 | Y | N | N | Qt-based |
 | [Cubic SDR](https://cubicsdr.com/) | 0.2.7 | 2022/02/05 | 21 | Y | Y | N | Soapy SDR-based |
 | [OpenWebRx](https://www.openwebrx.de/) | 1.1.0 | 2021/08/03 | 1 | Y | N | N | Some HW is Soapy SDR-based |
+| [SDR++](https://github.com/AlexandreRouma/SDRPlusPlus) | 1.0.4 | 2021/10/17 | 33 | Y | Y | Y | Some HW is Soapy SDR-based |
 
 Based on a casual inspection of much of this software, it appears that
 one of the least "heavy" solutions might be

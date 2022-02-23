@@ -12,7 +12,8 @@ tags: kiwisdr snr rfi emi power electricity
 
 Common wisdom is that [common-mode
 chokes](https://en.wikipedia.org/wiki/Choke_(electronics)#Common-mode_choke)
-on antenna coax cables are an effective way to prevent noise from
+on antenna coax cables are an effective way to prevent 
+[common-mode noise](https://en.wikipedia.org/wiki/Common-mode_signal) from
 inside the shack from propagating on the coax shield and coupling to
 the active element(s) of the antenna the coax cable is connected to.
 

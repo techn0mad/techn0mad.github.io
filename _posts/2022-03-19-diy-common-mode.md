@@ -5,6 +5,7 @@ tags: rfi emi antenna noise
 ---
 
 ![Balun Designs Choke Impedance](https://cdn3.bigcommerce.com/s-4q7cv/product_images/uploaded_images/59f4efa62cbf4-1116d-choking.jpg)
+*<center>Common-mode choke impedance graph</center>*
 
 For a long time, I have been 
 [advocating]({% post_url 2005-09-15-antenna-guru %})

@@ -28,7 +28,7 @@ Fortunately, my wife is a potter, and glazed pottery and porcelain has
 many of the same issues with respect to applying markings to it, but
 people have come up with solutions to the problem:
 
-[![Pottery Marking Pen](/assets/img/2022-07-07-ferrite-pen.jpg)]({% post_url 2022-07-08-ferrite-labels %})
+[![Pottery Marking Pen](/assets/img/2022-07-08-ferrite-pen.jpg)]({% post_url 2022-07-08-ferrite-labels %})
 *<center>Pottery Marking Pen that works great on Ferrites</center>*
 
 This marker is white, so the markings stand out well against a black

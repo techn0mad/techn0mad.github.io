@@ -12,11 +12,12 @@ with ferrite components is that most of the time, these components do
 not carry markings or labels on the ferrites themselves, and the type
 of ferrite is usually critical for a particular use.
 
-There are lots of articles describing how to use a grid-dip meter or
-VNA to determine what kind of ferrite is being examined when they are
-encountered at a flea market or are otherwise of unknown
-providence. Unfortunately, these steps are finicky and require one to
-carry a bunch of test equipment around with them (and know how to use it).
+There are lots of [articles](https://youtu.be/Q95Vwk3kZok) describing
+how to use a grid-dip meter or VNA to determine what kind of ferrite
+is being examined when they are encountered at a flea market or are
+otherwise of unknown providence. Unfortunately, these steps are finicky
+and require one to carry a bunch of test equipment around with them
+(and know how to use it).
 
 A simpler, more direct solution is to mark the ferrites when you
 obtain them in a way that is both easy to read and difficult to
@@ -26,7 +27,7 @@ or iron power and ceramic, and are hard, brittle, and non-porous.
 
 Fortunately, my wife is a potter, and glazed pottery and porcelain has
 many of the same issues with respect to applying markings to it, but
-people have come up with solutions to the problem:
+people have come up with [solutions](https://artistro.com/products/white-paint-pens-for-rock-painting-stone-ceramic-glass-wood-set-of-5-acrylic-paint-markers-extra-fine-tip) to the problem:
 
 [![Pottery Marking Pen](/assets/img/2022-07-08-ferrite-pen.jpg)]({% post_url 2022-07-08-ferrite-labels %})
 *<center>Pottery Marking Pen that works great on Ferrites</center>*

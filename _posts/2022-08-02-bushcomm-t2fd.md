@@ -4,7 +4,7 @@ title: "Downunder Folded Dipole"
 tags: antenna dipole broadband folded terminated
 ---
 
-![Bushcomm Logo](/assets/img/logo_bushcomm_for_web.jpg "Bushcomm Logo")
+![FD-100 Folded Dipole HF Antenna](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5fX8ICA4iEZjiIyIJpEFHFod0D9GP57BpQyIzNfjnMOlV0Dx5E1lvXJDJyv_PBxaXsts&usqp=CAU)
 
 After many years of carrying my 
 [Bushcomm FD-100](https://www.bushcommantennas.com.au/brochurelibrary/Bushcomm%20FD-100%20%20Folded%20Dipole%20hf%20antenna%20broadband%20stainless%20steel.pdf)

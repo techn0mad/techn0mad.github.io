@@ -14,12 +14,12 @@ I haven't had much time to check it in detail but it seems to be working pretty
 much as advertised: Some simple tests with a VNA show that the VSWR is less than
 about 1.7:1 across the entire HF spectrum:
 
-[![Bushcomm FD-100 Folded Dipole VNA Scan](/assets/img/FD100-1-31_Square.png)]({% post_url 2022-08-02-downunder-folded-dipole %})
+[![Bushcomm FD-100 Folded Dipole VNA Scan](/assets/img/FD100-1-31_Square.png)]({% post_url 2022-08-02-bushcomm-t2fd %})
 
 Compare this with a similar VNA scan of my 80M/40M fan dipole, where the VSWR is greater
 than 2:1 across most of the HF spectrum:
 
-[![80M/40M Fan Dipole VNA Scan](/assets/img/80-40-fan-1-31_Square.png)]({% post_url 2022-08-02-downunder-folded-dipole %})
+[![80M/40M Fan Dipole VNA Scan](/assets/img/80-40-fan-1-31_Square.png)]({% post_url 2022-08-02-bushcomm-t2fd %})
 
 I'm not satisfied with the orientation of the antenna, since one end is about
 50-60 feet up but the other end is only about 3 feet off the ground. I'd like

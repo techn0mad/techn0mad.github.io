@@ -24,7 +24,7 @@ I finally got a few minutes to get my
 [PocketVNA](https://pocketvna.com/) VNA running and calibrated, and I
 took a closer look:
 
-[![80-40M Fan Dipole Too Long](/assets/img/2022-07-03-Fan80-40Pre.png)]({% post_url 2022-07-02-fd-qrp-and-antenna-pruning %})
+[![80-40M Fan Dipole Too Long](/assets/img/2022-07-03-Fan80-40Pre.png)](/assets/img/2022-07-03-Fan80-40Pre.png)
 *<center>80-40M Fan Dipole With 40M Too Long</center>*
 
 As can be seen from the above, the 40M portion of the fan dipole
@@ -39,7 +39,7 @@ shortened them by about 2 feet, 6 inches. Running another scan on the
 VNA, I can see that the 40M dipole now resonates within the 40M band,
 albeit still a little low:
 
-[![80-40M Fan Dipole Better](/assets/img/2022-07-03-Fan80-40Post.png)]({% post_url 2022-07-02-fd-qrp-and-antenna-pruning %})
+[![80-40M Fan Dipole Better](/assets/img/2022-07-03-Fan80-40Post.png)](/assets/img/2022-07-03-Fan80-40Post.png)
 *<center>80-40M Fan Dipole Closer to Being Tuned</center>*
 
 It's always comforting and reassuring when there is some evidence that

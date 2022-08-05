@@ -4,7 +4,7 @@ title: "DIY Common Mode Choke"
 tags: rfi emi antenna noise
 ---
 
-[![Balun Designs Choke Impedance](https://cdn3.bigcommerce.com/s-4q7cv/product_images/uploaded_images/59f4efa62cbf4-1116d-choking.jpg)]({% post_url 2022-03-19-diy-common-mode %})
+[![Balun Designs Choke Impedance](https://cdn3.bigcommerce.com/s-4q7cv/product_images/uploaded_images/59f4efa62cbf4-1116d-choking.jpg)](https://cdn3.bigcommerce.com/s-4q7cv/product_images/uploaded_images/59f4efa62cbf4-1116d-choking.jpg)
 *<center>Common-mode choke impedance graph</center>*
 
 For a long time, I have been 

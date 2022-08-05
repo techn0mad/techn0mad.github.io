@@ -4,7 +4,7 @@ title: "A Leap Forward"
 tags: antenna beverage kiwisdr snr
 ---
 
-[![KiwiSDR SNR List](/assets/img/2022-07-05-beverage-headend.jpg)]({% post_url 2022-07-05-kiwi-snr-beverage %})
+[![KiwiSDR SNR List](/assets/img/2022-07-05-beverage-headend.jpg)](/assets/img/2022-07-05-beverage-headend.jpg)
 *<center>Beverage Headend</center>*
 
 For some time, I have been trying to improve the

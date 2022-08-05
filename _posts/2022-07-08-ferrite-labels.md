@@ -4,7 +4,7 @@ title: "Labelling Your Ferrites"
 tags: ferrites toroids beads howto
 ---
 
-[![Labeled Ferrite Beads](/assets/img/2022-07-08-beads.jpg)]({% post_url 2022-07-08-ferrite-labels %})
+[![Labeled Ferrite Beads](/assets/img/2022-07-08-beads.jpg)](/assets/img/2022-07-08-beads.jpg)
 *<center>73's to Everyone</center>*
 
 A well-known challenge for DIYers and homebrewers who want to work

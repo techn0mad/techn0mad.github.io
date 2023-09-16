@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Chip Shortage Bites"
 tags: economics semiconductor supplychain raspberrypi
 ---

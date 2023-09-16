@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "LED Dial Lights for Drake TR-7"
 tags: drake tr7 dial lights
 ---

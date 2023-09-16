@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Blog Fatigue"
 tags: blog jekyll github ruby eleventy
 ---

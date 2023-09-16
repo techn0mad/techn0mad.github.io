@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The (RFI) Plot Thickens"
 tags: snr rfi emi power electricity
 ---

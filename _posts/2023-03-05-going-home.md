@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Going Home"
 tags: rivian ev orcas
 ---

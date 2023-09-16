@@ -2,7 +2,7 @@
 author: gadallah
 comments: true
 date: 2013-01-03 23:30:36+00:00
-layout: single
+layout: post
 published: true
 slug: the-broken-glass
 title: The Broken Glass

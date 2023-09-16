@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "New Beverage Antenna Finally Under Construction"
 tags: hamradio antennas
 ---

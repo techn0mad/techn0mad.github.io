@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title:  "Whither SDR?"
 tags: hamradio sdr hpsdr
 ---

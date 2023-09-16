@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "HFDL on KiwiSDR"
 tags: sdr kiwisdr aviation hfdl
 ---

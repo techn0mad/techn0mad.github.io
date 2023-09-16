@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Rivian Delivery"
 tags: rivian ev bellevue
 ---

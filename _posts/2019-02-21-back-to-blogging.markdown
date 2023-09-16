@@ -11,12 +11,12 @@ blog again. I’ve been motivated to do this for a number of reasons:
 - I grow increasingly impatient with the various 800 pound gorillas of
 the Internet trying to herd everyone into their walled gardens, and
 then laying claim to everyone’s content. To add insult to injury, it
-seems that they are often also 
-[quite careless with your data](https://www.theguardian.com/commentisfree/2018/dec/21/quit-facebook-privacy-scandal-private-messages). This is counter 
-to the 
-[original intent of the Internet](https://inrupt.com/blog/one-small-step-for-the-web), IMHO. A pair of accomplished writers that I know, 
-[Steve Stroh](https://www.stevestroh.com/) and 
-[Steve Roberts](https://microship.com/), inspired me to fight the 
+seems that they are often also
+[quite careless with your data](https://www.theguardian.com/commentisfree/2018/dec/21/quit-facebook-privacy-scandal-private-messages). This is counter
+to the
+[original intent of the Internet](https://inrupt.com/blog/one-small-step-for-the-web), IMHO. A pair of accomplished writers that I know,
+[Steve Stroh](https://www.stevestroh.com/) and
+[Steve Roberts](https://microship.com/), inspired me to fight the
 trend and go back to self-publishing.
 
 - As with personal computing, I miss the days when people could
@@ -27,10 +27,8 @@ like a static blog like this one (based on [Jekyll](https://jekyllrb.com/)
 and [Ruby](https://www.ruby-lang.org/en/)) gives me a
 fighting chance of understanding what’s going on.
 
-- [Github’s offer](https://pages.github.com/) to host people’s web pages 
-(within reason) for free lowered the costs and barriers to entry to the 
+- [Github’s offer](https://pages.github.com/) to host people’s web pages
+(within reason) for free lowered the costs and barriers to entry to the
 point that it literally took less than 15 minutes to setup and start a blog.
 
 ![Cartoon](/assets/img/RealEmergency.jpg "The Real Emergency")
-
-{% include disqus.html %}

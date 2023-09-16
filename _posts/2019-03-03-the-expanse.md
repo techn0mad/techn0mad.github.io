@@ -5,7 +5,7 @@ date:   2019-03-03 20:32:24 -0800
 tags: scifi tv expanse
 ---
 
-![The Expanse]({{ base.url }}{{ base.siteurl }}/assets/img/ExpanseMain.jpg)
+![The Expanse]({{ base.url }}{{ base.siteurl }}/assets/images/ExpanseMain.jpg)
 
 As the son of a [science fiction
 writer](http://www.sf-encyclopedia.com/entry/gadallah_leslie), and

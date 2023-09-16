@@ -4,6 +4,10 @@ title: "Going Home"
 tags: rivian ev orcas
 ---
 
+![MtBaker]({{ site.url }}{{ site.baseurl }}/assets/images/rivian/Rivian300.jpg)
+
+*Waiting in line with Mt. Baker in the background*
+
 After having [picked up my new truck]({% post_url
 2023-03-03-rivian-delivery %}), it was time to take it home.  My wife
 drove her Subaru, and I drove the new truck to the Anacortes ferry
@@ -15,10 +19,6 @@ WA-20. I started with about 230 miles of range, and arrived home with
 about 110 miles of range remaining. I'm not sure what accounts for the
 10-20 mile discrepancy in range, maybe I was playing around too much
 :-)
-
-![MtBaker]({{ site.url }}{{ site.baseurl }}/assets/images/rivian/Rivian300.jpg)
-
-*Waiting in line with Mt. Baker in the background*
 
 ![Clean]({{ site.url }}{{ site.baseurl }}/assets/images/rivian/Rivian301.jpg)
 

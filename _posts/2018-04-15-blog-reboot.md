@@ -13,7 +13,7 @@ post_format:
 tags: jekyll blog ruby git wordpress
 ---
 
-![Jekyll Sticker]({{ site.url }}{{ site.baseurl }}/assets/jekyll-sticker.jpg)
+![Jekyll Sticker]({{ site.url }}{{ site.baseurl }}/assets/images/jekyll-sticker.jpg)
 
 At long last I finally got my static site generator for this blog
 working, using [Ruby](https://www.ruby-lang.org/en/),

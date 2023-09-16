@@ -4,7 +4,7 @@ title: "What, Me Worry?"
 tags: internet network computer security
 ---
 
-![Alfred E. Neuman]({{ site.url }}{{ site.baseurl }}/assets/alfred_e.jpg)
+![Alfred E. Neuman]({{ site.url }}{{ site.baseurl }}/assets/images/alfred_e.jpg)
 
 After reading and hearing more and more of what appears to be a
 [burgeoning state-sponsored malware-industrial

@@ -4,6 +4,10 @@ title: "First Charge"
 tags: rivian ev
 ---
 
+![ChargePoint]({{ site.url }}{{ site.baseurl }}/assets/images/rivian/Rivian200.jpg)
+
+*ChargePoint Level 2 charging station*
+
 As a person experiencing an electric vehicle for the first time, I am
 of course subject to the dreaded [range
 anxiety](https://en.wikipedia.org/wiki/Range_anxiety).
@@ -21,10 +25,6 @@ charger.
 There was one quite close by, and was unoccupied, unlike most of the
 charging stations I had seen since the day before, when we had picked
 up the truck.
-
-![ChargePoint]({{ site.url }}{{ site.baseurl }}/assets/images/rivian/Rivian200.jpg)
-
-*ChargePoint Level 2 charging station*
 
 So, I got out my smartphone app, activated the charger, plugged in,
 and waited patiently for an hour.

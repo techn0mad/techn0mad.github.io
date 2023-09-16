@@ -4,6 +4,8 @@ title: "Another Sad Story of Common Mode"
 tags: blog sdr kiwisdr rf antennas emi rfi
 ---
 
+![Open feedline noise]({{ site.url }}{{ site.baseurl }}/assets/images/common_mode_1_2021-07-12.png)
+
 I have been running a [KiwiSDR](http://kiwisdr.com/) for a number of years
 since I arrived on Orcas Island.  When it was first set up with a nice
 [Beverage antenna](https://en.wikipedia.org/wiki/Beverage_antenna)

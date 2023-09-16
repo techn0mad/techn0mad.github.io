@@ -4,15 +4,15 @@ title: "Rivian First Mile Experience"
 tags: rivian ev vancouver
 ---
 
+![Our ride for the day]({{ site.url }}{{ site.baseurl }}/assets/images/rivian/Rivian001.jpg)
+
+*Rivian R1T in El Cap Granite*
+
 Back in mid-2021, I heard about an [electric
 vehicle](https://en.wikipedia.org/wiki/Electric_vehicle) (EV) startup
 named "[Rivian](https://rivian.com/)", who piqued my curiosity, as
 they were building an exciting EV truck targeted towards off-road
 users, but was also a luxurious, sporty vehicle while on-road.
-
-![Our ride for the day]({{ site.url }}{{ site.baseurl }}/assets/images/rivian/Rivian001.jpg)
-
-*Rivian R1T in El Cap Granite*
 
 While many people are motivated by the ecological or "green" aspects
 of EVs, I was more attracted by the exceptionally conservative

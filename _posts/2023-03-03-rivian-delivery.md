@@ -4,6 +4,10 @@ title: "Rivian Delivery"
 tags: rivian ev bellevue
 ---
 
+![Fresh]({{ site.url }}{{ site.baseurl }}/assets/images/rivian/Rivian100.jpg)
+
+*New Rivian R1T in Glacier White*
+
 After having had [my "First Mile"]({% post_url 2023-02-13-first-mile %})
 experience, I was excited (in a restrained way) about the prospect
 of getting my new vehicle in the next month or so.
@@ -19,10 +23,6 @@ week and a half delay from Rivian to get it scheduled.
 So on a friday in early March, we once again got on the ferry over to
 Anacortes, WA and drove up to Bellevue to pick it up on a particularly
 cold and blustery day.
-
-![Fresh]({{ site.url }}{{ site.baseurl }}/assets/images/rivian/Rivian100.jpg)
-
-*New Rivian R1T in Glacier White*
 
 I had been very concerned about what kind of quality issues I might
 encounter during the delivery, as I had heard that in the past six

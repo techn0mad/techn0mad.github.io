@@ -5,6 +5,7 @@ tags: ferrites toroids beads howto
 ---
 
 [![Labeled Ferrite Beads]({{ site.url }}{{ site.baseurl }}/assets/images/2022-07-08-beads.jpg)](/assets/img/2022-07-08-beads.jpg)
+
 *<center>73's to Everyone</center>*
 
 A well-known challenge for DIYers and homebrewers who want to work
@@ -30,6 +31,7 @@ many of the same issues with respect to applying markings to it, but
 people have come up with [solutions](https://artistro.com/products/white-paint-pens-for-rock-painting-stone-ceramic-glass-wood-set-of-5-acrylic-paint-markers-extra-fine-tip) to the problem:
 
 [![Pottery Marking Pen]({{ site.url }}{{ site.baseurl }}/assets/images/2022-07-08-ferrite-pen.jpg)]({% post_url 2022-07-08-ferrite-labels %})
+
 *<center>Pottery Marking Pen that works great on Ferrites</center>*
 
 This marker is white, so the markings stand out well against a black
@@ -37,5 +39,6 @@ background, and it actually uses paint to mark the item, so the
 markings are both durable and difficult to remove.
 
 [![Labeled Ferrite Toroids]({{ site.url }}{{ site.baseurl }}/assets/images/2022-07-08-toroids.jpg)]({% post_url 2022-07-08-ferrite-labels %})
+
 *<center>Labelled Toroids</center>*
 

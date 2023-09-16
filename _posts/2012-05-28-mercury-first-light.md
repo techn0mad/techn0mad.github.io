@@ -10,7 +10,7 @@ wordpress_id: 688
 tags: hamradio hpsdr sdr ghpsdr
 ---
 
-![Mercury on 75M, May 2012]({{ "/assets/mercury0012.png" | absolute_url }})
+![Mercury on 75M]({{ "{{ site.url }}{{ site.baseurl }}/assets/mercury0012.png)
 
 At long last (2 years?) I finally got my HPSDR Mercury SDR receiver
 running. After making a final mod to the LPU power supply, the

@@ -10,7 +10,7 @@ wordpress_id: 706
 tags: hamradio hpsdr ghpsdr3 qtradio sdr
 ---
 
-![Mercury on QtRadio]({{ "/assets/mercury002.png" | absolute_url }})
+![Mercury on QtRadio]({{ site.url }}{{ site.baseurl }}/assets/mercury002.png)
 
 After spending a few hours with the older ghpsdr software for the
 HPSDR hardware, I was quite underwhelmed. It took a bit of detective

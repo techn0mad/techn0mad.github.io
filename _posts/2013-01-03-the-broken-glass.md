@@ -12,7 +12,7 @@ post_format:
 - Image
 ---
 
-![The Broken Glass]({{ "/assets/610.jpg" | absolute_url }})
+![The Broken Glass]({{ site.url }}{{ site.baseurl }}/assets/610.jpg)
 
 Struggling to enjoy my time with my buddy Java, who has just been diagnosed with Lymphoma. He's lived to a ripe old age in any case, but I'm still distressed to see him suffer and to contemplate his eventual departure.
 

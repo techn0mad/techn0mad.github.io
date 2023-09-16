@@ -4,7 +4,7 @@ title: "HFDL on KiwiSDR"
 tags: sdr kiwisdr aviation hfdl
 ---
 
-![KiwiSDR HFDL]({{ site.url }}{{ site.baseurl }}/assets/images/KiwiHFDL.png "KiwiSDR HFDL")
+![KiwiSDR HFDL]({{ site.url }}{{ site.baseurl }}/assets/images/KiwiHFDL.png)
 
 I used to spend a lot more time than I have recently listening to
 ["utility" stations](https://en.wikipedia.org/wiki/Utility_station) on
@@ -36,7 +36,7 @@ thought it might be interesting to write an HFDL decoder on a different
 OS, but the specifications had to be purchased for several hundred
 dollars, and I never got _that_ motivated.
 
-![KiwiSDR](http://www.bonito.net/newsroom/wp-content/uploads/2017/03/kiwi-im-gehause-300x200.jpg "KiwiSDR")
+![KiwiSDR](http://www.bonito.net/newsroom/wp-content/uploads/2017/03/kiwi-im-gehause-300x200.jpg)
 
 Fast forward again a few years, and my friend [Steve Stroh,
 N8GNJ](https://www.n8gnj.org/), pointed me at a [Kickstarter

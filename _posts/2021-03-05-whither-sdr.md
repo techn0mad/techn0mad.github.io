@@ -4,36 +4,48 @@ title:  "Whither SDR?"
 tags: hamradio sdr hpsdr
 ---
 
-![GNU Radio logo]({{ site.url }}{{ site.baseurl }}/assets/images/GNURadio.png "GNU Radio logo")
+![GNU Radio logo]({{ site.url }}{{ site.baseurl }}/assets/images/GNURadio.png)
 
-As a long-time devotee of the concept of software defined radio (SDR), I remain somewhat discouraged
-at the current state-of-the-art with respect to its usage in the ham radio world.
+As a long-time devotee of the concept of software defined radio (SDR),
+I remain somewhat discouraged at the current state-of-the-art with
+respect to its usage in the ham radio world.
 
-I remember seeing a very nice [talk](http://microhams.blob.core.windows.net/content/2015/05/3-n7hq_mhdc2009.pdf)
-at the [SeaPac Convention](https://www.seapac.org) some years ago, where a gentleman had eviscerated an old 
-[Heath SB-104 transceiver](https://rigreference.com/rigs/2938-heathkit-sb-104) 
-and installed some very up to date (for the time) SDR hardware inside it. His audience for the talk 
-was a lot of older hams who had either never heard of SDR or did not know what it meant.
+I remember seeing a very nice
+[talk](http://microhams.blob.core.windows.net/content/2015/05/3-n7hq_mhdc2009.pdf)
+at the [SeaPac Convention](https://www.seapac.org) some years ago,
+where a gentleman had eviscerated an old [Heath SB-104
+transceiver](https://rigreference.com/rigs/2938-heathkit-sb-104) and
+installed some very up to date (for the time) SDR hardware inside
+it. His audience for the talk was a lot of older hams who had either
+never heard of SDR or did not know what it meant.
 
-The meaningful part (at least to me) of his talk was where he explained that in the old days, if you 
-wanted to change your radio, you had to change some hardware. You might change a tube, replace a coil,
-add a crystal in order to obtain the new functionality that was desired. The revolutionary part
-was that in the SDR world, you would make all of these changes in software, and the hardware portion
-of the system would remain unchanged.
+The meaningful part (at least to me) of his talk was where he
+explained that in the old days, if you wanted to change your radio,
+you had to change some hardware. You might change a tube, replace a
+coil, add a crystal in order to obtain the new functionality that was
+desired. The revolutionary part was that in the SDR world, you would
+make all of these changes in software, and the hardware portion of the
+system would remain unchanged.
 
-I am disappointed that some 20 years after SDR first became practical in the ham radio domain, the 
-vast majority of the implementations in use are ones where the end-user is simply unable to make any changes 
-to the software (or even view the software), mostly due to a lack of 
-[open-source software licensing](https://opensource.org/osd), thereby losing the major promise of SDR.
+I am disappointed that some 20 years after SDR first became practical
+in the ham radio domain, the vast majority of the implementations in
+use are ones where the end-user is simply unable to make any changes
+to the software (or even view the software), mostly due to a lack of
+[open-source software licensing](https://opensource.org/osd), thereby
+losing the major promise of SDR.
 
-To be sure, a significant part of the reason for this is that the required knowledge; what SDR functions
-need to be implemented, how to encode these in software, and how to build and deploy this software on
-to the hardware are surely specialized domains of knowledge. However, many of the major SDR implementations
-in use are "black-box" and do not lend themselves to exploration or modification, either coincidentally
-or deliberately.
+To be sure, a significant part of the reason for this is that the
+required knowledge; what SDR functions need to be implemented, how to
+encode these in software, and how to build and deploy this software on
+to the hardware are surely specialized domains of knowledge. However,
+many of the major SDR implementations in use are "black-box" and do
+not lend themselves to exploration or modification, either
+coincidentally or deliberately.
 
-Having said all of that, let's delve into what parts of an SDR implementation we might want to modify,
-and survey the market and see which general purpose SDRs allow modifications to which portions of the system.
+Having said all of that, let's delve into what parts of an SDR
+implementation we might want to modify, and survey the market and see
+which general purpose SDRs allow modifications to which portions of
+the system.
 
 | Popularity<sup>1</sup> | Vendor | SDR | Software | License | Language |
 | --- | --- | --- | --- | --- | --- |
@@ -71,8 +83,8 @@ and survey the market and see which general purpose SDRs allow modifications to 
 | 9590 | Airspy | [HF+ Discovery](https://airspy.com/airspy-hf-discovery/) | [SDR#](https://airspy.com/download/) | [MS-RSL](https://referencesource.microsoft.com/license.html) | .Net |
 | 7970 | Airspy | [HF+ Dual Port](https://airspy.com/airspy-hf-plus/) | [SDR#](https://airspy.com/download/) | [MS-RSL](https://referencesource.microsoft.com/license.html) | .Net |
 | 16300 | Analog Devices | [PlutoSDR](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html#eb-overview) | [GNU Radio](https://wiki.gnuradio.org/index.php/InstallingGR) | [GPL](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html) | C++ |
-| 8930 | Lime Microsystems | [LimeSDR](https://limemicro.com/products/boards/limesdr/) | [SoapySDR](https://github.com/pothosware/SoapySDR) | [Boost](https://www.boost.org/LICENSE_1_0.txt) | C++ | 
-| 10200 | Nuand | [bladeRF](https://www.nuand.com/) | [SoapySDR](https://github.com/pothosware/SoapySDR) | [Boost](https://www.boost.org/LICENSE_1_0.txt) | C++ | 
+| 8930 | Lime Microsystems | [LimeSDR](https://limemicro.com/products/boards/limesdr/) | [SoapySDR](https://github.com/pothosware/SoapySDR) | [Boost](https://www.boost.org/LICENSE_1_0.txt) | C++ |
+| 10200 | Nuand | [bladeRF](https://www.nuand.com/) | [SoapySDR](https://github.com/pothosware/SoapySDR) | [Boost](https://www.boost.org/LICENSE_1_0.txt) | C++ |
 | 16400 | Ali Express | [New Horizons](http://gridrf.com/products/detail/id/12.html) | [GNU Radio](https://wiki.gnuradio.org/index.php/InstallingGR) | [GPL](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html) | C++ |
 | 1430 | AMSAT-UK | [Funcube Dongle Pro](http://www.funcubedongle.com/) | [GNU Radio](https://wiki.gnuradio.org/index.php/InstallingGR) | [GPL](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html) | C++ |
 | 3520 | Othernet | [KerberosSDR](http://kerberossdr.com/) | [GNU Radio](https://wiki.gnuradio.org/index.php/InstallingGR) | [GPL](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html) | C++ |

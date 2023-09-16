@@ -10,7 +10,7 @@ wordpress_id: 607
 tags: antennas hamradio software python rfi
 ---
 
-![AOR AR-7030+]({{ site.url }}{{ site.baseurl }}/assets/images/aor-ar-7030p.jpg "AOR AR-7030+")
+![AOR AR-7030+]({{ site.url }}{{ site.baseurl }}/assets/images/aor-ar-7030p.jpg)
 
 After many years, I've finally gotten around to automating some
 antenna system measurements. I spent some time a few years ago trying
@@ -37,7 +37,7 @@ automation scripts:
   * Have the script automatically bypass the AM and SWBC bands
   * Find some way to automatically attach a timestamp to the graphs
 
-![VE6VQ Site Noise Profile]({{ "/assets/site_survey_2012_05_17.png" | absolute_url }})
+![VE6VQ Site Noise Profile]({{ site.url }}{{ site.baseurl }}/assets/site_survey_2012_05_17.png)
 
 At the very least, this is a good way to document the status of the
 antenna system, so that if anything changes, it can be easily

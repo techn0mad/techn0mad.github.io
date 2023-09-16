@@ -4,11 +4,11 @@ title: "A Tale of Two Power Supplies"
 tags: kiwisdr snr rfi emi power electricity
 ---
 
-![Generic PS Spectrum]({{ site.url }}{{ site.baseurl }}/assets/images/Site-2022-02-20-14.24.52-NoNamePS.png "Generic PS Spectrum")
+![Generic PS Spectrum]({{ site.url }}{{ site.baseurl }}/assets/images/Site-2022-02-20-14.24.52-NoNamePS.png)
 
 *<center>KiwiSDR waterfall with generic SMPS</center>*
 
-![Generic PS]({{ site.url }}{{ site.baseurl }}/assets/images/NoNamePS.jpg "Generic PS")
+![Generic PS]({{ site.url }}{{ site.baseurl }}/assets/images/NoNamePS.jpg)
 
 *<center>Generic SMPS</center>*
 
@@ -26,13 +26,13 @@ Studio](https://www.seeedstudio.com/) with my KiwiSDR.
 As an experiment, I swapped out the generic SMPS I'd been using with
 the KiwiSDR for the original SMPS provided with it.
 
-![Kiwi PS Spectrum]({{ site.url }}{{ site.baseurl }}/assets/images/Site-2022-02-20-14.55.56-KiwiPS.png "PS provided with KiwiSDR Spectrum")
+![Generic Power Supply Spectrum]({{ site.url }}{{ site.baseurl }}/assets/images/Site-2022-02-20-14.55.56-KiwiPS.png)
 
-*<center>KiwiSDR waterfall with Kiwi-provided PS</center>*
+*<center>KiwiSDR waterfall with Generic SMPS</center>*
 
-![Kiwi PS]({{ site.url }}{{ site.baseurl }}/assets/images/KiwiOrigPS.jpg "PS provided with KiwiSDR")
+![Kiwi Power Supply Spectrum]({{ site.url }}{{ site.baseurl }}/assets/images/KiwiOrigPS.jpg)
 
-*<center>Kiwi-provided SMPS</center>
+*<center>KiwiSDR waterfall with Kiwi-provided SMPS</center>
 
 I was kind of startled at the difference: The original SMPS is much
 better below 10 MHz, and especially in the area between MW and 7 MHz,

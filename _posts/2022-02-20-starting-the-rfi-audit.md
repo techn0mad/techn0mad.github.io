@@ -4,11 +4,11 @@ title: "Tracking the Elusive SMPS"
 tags: kiwisdr snr rfi emi power electricity
 ---
 
-![AC On]({{ site.url }}{{ site.baseurl }}/assets/images/Site-2022-02-19-10.04.10.png "Waterfall with AC on")
+![Waterfall with AC On]({{ site.url }}{{ site.baseurl }}/assets/images/Site-2022-02-19-10.04.10.png)
 
 *<center>KiwiSDR waterfall with normal AC power</center>*
 
-![AC Off]({{ site.url }}{{ site.baseurl }}/assets/images/Site-2022-02-19-11.35.00.png "Waterfall with AC off")
+![Waterfall with AC Off]({{ site.url }}{{ site.baseurl }}/assets/images/Site-2022-02-19-11.35.00.png)
 
 *<center>KiwiSDR waterfall with (most) AC power off</center>*
 
@@ -39,5 +39,3 @@ looking for hot spots. I have a new, battery-powered Icom IC-705 that
 might be perfect for this purpose, I just need to figure out what kind
 of strange-looking antenna might be effective for the lower portions
 of HF.
-
-

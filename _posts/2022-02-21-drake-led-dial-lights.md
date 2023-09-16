@@ -4,7 +4,7 @@ title: "LED Dial Lights for Drake TR-7"
 tags: drake tr7 dial lights
 ---
 
-![Drake TR-7 LED Dial Lights]({{ site.url }}{{ site.baseurl }}/assets/images/DrakeLEDDialLights.jpg "Drake TR-7 LED Dial Lights")
+![Drake TR-7 LED Dial Lights]({{ site.url }}{{ site.baseurl }}/assets/images/DrakeLEDDialLights.jpg)
 
 *<center>Ice Blue LED Dial Lights in Drake TR-7</center>*
 
@@ -36,6 +36,3 @@ incandescent bulbs.
 I am pleased that they worked as advertised, but I think I might have
 to find some way to diffuse the light a bit more, as there seem to be
 hotspots in the pattern of light they emit, and they are a bit too bright.
-
-
-

@@ -4,7 +4,7 @@ title: "SDR Without Windows?"
 tags: sdr windows linux bsd opensource
 ---
 
-![Meditating Gnu]({{ site.url }}{{ site.baseurl }}/assets/images/meditate-gnu.jpg "Meditating Gnu")
+![Meditating Gnu]({{ site.url }}{{ site.baseurl }}/assets/images/meditate-gnu.jpg)
 
 As a person who is a bit of a fanatic about software defined radio
 (SDR), and a professional software engineer and open source software

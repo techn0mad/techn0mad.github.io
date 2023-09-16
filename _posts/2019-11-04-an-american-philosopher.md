@@ -10,7 +10,7 @@ meta:
   _edit_last: '2666016'
 ---
 
-![Eric Hoffer]({{ site.url }}{{ site.baseurl }}/assets/images/EricHoffer.jpg "Eric Hoffer")
+![Eric Hoffer]({{ site.url }}{{ site.baseurl }}/assets/images/EricHoffer.jpg)
 
 Recent political events made me contemplate these ideas, ascribed to
 someone described as America's last great philosopher, [Eric
@@ -18,7 +18,8 @@ Hoffer](https://en.wikipedia.org/wiki/Eric_Hoffer). Regardless of your
 partisan or religious leanings, many of them seem to resonate strongly
 in our time.
 
-From Eric Hoffer's [_"The True Believer"_](https://en.wikipedia.org/wiki/The_True_Believer) (1951):
+From Eric Hoffer's [_"The True
+Believer"_](https://en.wikipedia.org/wiki/The_True_Believer) (1951):
 
 1.  "Absolute faith corrupts as absolutely as absolute power."
 

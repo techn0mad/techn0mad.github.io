@@ -10,7 +10,7 @@ wordpress_id: 638
 tags: hamradio sdr hpsdr mercury
 ---
 
-![LPU/Atlas bus check]({{ "/assets/img_20120527_083513.jpg" | absolute_url }})
+![LPU/Atlas bus check]({{ site.url }}{{ site.baseurl }}/assets/img_20120527_083513.jpg)
 
 When a telescope is commissioned, the first time light from the stars
 enters the instrument is called "first light". While ham radios aren't
@@ -35,4 +35,4 @@ seconds. According to the LPU errata this is a problem with the SMT
 fuses on the LPU, so presumably I am only one hardware mod away from
 first light.
 
-![Mercury and Excalibur]({{ "/assets/img_20120527_084252.jpg" | absolute_url }})
+![Mercury and Excalibur]({{ site.url }}{{ site.baseurl }}/assets/img_20120527_084252.jpg)

@@ -4,7 +4,8 @@ title: "A Leap Forward"
 tags: antenna beverage kiwisdr snr
 ---
 
-[![KiwiSDR SNR List]({{ site.url }}{{ site.baseurl }}/assets/images/2022-07-05-beverage-headend.jpg)](/assets/img/2022-07-05-beverage-headend.jpg)
+[![KiwiSDR SNR List]({{ site.url }}{{ site.baseurl }}/assets/images/2022-07-05-beverage-headend.jpg)]({{ site.url }}{{ site.baseurl }}/assets/img/2022-07-05-beverage-headend.jpg)
+
 *<center>Beverage Headend</center>*
 
 For some time, I have been trying to improve the
@@ -36,13 +37,15 @@ very pleased to see that the effort to put up the new antenna already
 seems to be paying off.
 
 [![KiwiSDR SNR List]({{ site.url }}{{ site.baseurl }}/assets/images/2022-07-05-KiwiSDR_SNR_List.png)]({% post_url 2022-07-05-kiwi-snr-beverage %})
+
 *<center>A big leap up the list</center>*
 
-The ranking shown on the page above is very deceptive, however: As the page
-states, SNR scores are usually best early in the morning, because man-made
-noise levels tend to be lowest then, and propagation on the higher HF
-bands begins to fade in early in the morning, thereby reducing the "N"
-and increasing the "S" in SNR. Depending on propagation conditions,
-signals may be higher or lower, somewhat independent of local noise,
-so I notice my position on the list varying wildly now; running from being
-in the top 20, down to being where it used to be, around 120th or so.
+The ranking shown on the page above is very deceptive, however: As the
+page states, SNR scores are usually best early in the morning, because
+man-made noise levels tend to be lowest then, and propagation on the
+higher HF bands begins to fade in early in the morning, thereby
+reducing the "N" and increasing the "S" in SNR. Depending on
+propagation conditions, signals may be higher or lower, somewhat
+independent of local noise, so I notice my position on the list
+varying wildly now; running from being in the top 20, down to being
+where it used to be, around 120th or so.

@@ -2,7 +2,7 @@
 author: larry
 comments: true
 date: 2018-04-15 17:39:13+00:00
-layout: post
+layout: single
 published: true
 slug: blog-reboot
 title: Blog is Rebooted!

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Rivian First Mile Experience"
 tags: rivian ev vancouver
 ---

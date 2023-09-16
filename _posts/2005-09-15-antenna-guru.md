@@ -2,7 +2,7 @@
 author: gadallah
 comments: true
 date: 2005-09-15 19:38:59+00:00
-layout: post
+layout: single
 published: true
 slug: antenna-guru
 title: Antenna Guru

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Field Day, QRP, and Antenna Pruning"
 tags: qrp antenna
 ---

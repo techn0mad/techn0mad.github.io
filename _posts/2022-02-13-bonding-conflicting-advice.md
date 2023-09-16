@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Conflicting Advice Regarding Bonding and Grounding"
 tags: hamradio antennas rfi grounding bonding
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "SDR Without Windows?"
 tags: sdr windows linux bsd opensource
 ---

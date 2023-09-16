@@ -2,7 +2,7 @@
 author: gadallah
 comments: true
 date: 2012-05-28 02:08:39+00:00
-layout: post
+layout: single
 published: true
 slug: getting-ready-for-first-light
 title: Getting ready for "First Light"

@@ -2,7 +2,7 @@
 author: gadallah
 comments: true
 date: 2012-05-28 05:06:52+00:00
-layout: post
+layout: single
 published: true
 slug: mercury-first-light
 title: Mercury First Light

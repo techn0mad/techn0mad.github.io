@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Downunder Folded Dipole"
 tags: antenna dipole broadband folded terminated
 ---

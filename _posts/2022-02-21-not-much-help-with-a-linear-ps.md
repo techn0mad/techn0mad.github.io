@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "A Linear Power Supply Didn't Help Much"
 tags: kiwisdr snr rfi emi power electricity
 ---

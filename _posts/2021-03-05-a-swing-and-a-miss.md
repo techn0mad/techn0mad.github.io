@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "A Swing and a Miss"
 tags: wiki javascript github computerscience
 ---

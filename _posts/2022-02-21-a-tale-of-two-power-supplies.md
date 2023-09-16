@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "A Tale of Two Power Supplies"
 tags: kiwisdr snr rfi emi power electricity
 ---

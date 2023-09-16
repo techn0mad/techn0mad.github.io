@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Labelling Your Ferrites"
 tags: ferrites toroids beads howto
 ---

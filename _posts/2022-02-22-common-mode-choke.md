@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Effect of Common Mode Chokes"
 tags: kiwisdr snr rfi emi power electricity
 ---

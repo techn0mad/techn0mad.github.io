@@ -534,34 +534,6 @@ article:
 ![50 ohm mismatch]({{ site.url }}{{ site.baseurl }}/assets/images/doty1.gif)
 
 >
->      #
->    ###########################################################################
->      #         ##                      ##                     ##
->      #         # #         10          ##          20         ##          30
->      #         # #                    # #                     # #
->      #         # #                    # #                    #  #
->      #         # #                    #  #                   #   #
->   -5 #         # #                    #  #                   #   #
->      #         #  #                   #   #                  #   #
->      #         #  #                  #    #                  #   #
->      #         #   #                 #    #                 #     #
->      #        #    #                 #     #                #      #
->      #        #     #               #       #              #       #
->  -10 #        #      #              #       ##             #        ##
->      #        #      #              #         ###         #           ####
->      #       #        ###          #             ###### ###               ##
->      #       #           ####     ##                  ##
->      #       #               #####
->      #       #
->      #       #
->  -15 #       #
->      #      #
->      #      #
->      #      #
->      #      #
->      #
->
->
 > The second graph assumes a matching transformer with a 9:1 impedance
 > ratio at the feedpoint, presenting the antenna with a load resistance
 > of 450 ohms. At most frequencies, the mismatch losses are considerably
@@ -570,33 +542,6 @@ article:
 
 ![450 ohm mismatch]({{ site.url }}{{ site.baseurl }}/assets/images/doty2.gif)
 
->
->     #
->     #                                                                #######
->  -3 #                                         ####                 ##
->     #                                       ##    ##             ##
->     #                                     ##        #           #
->     #                #####               #           ##        #
->  -4 #              ##     ##            #              #      #
->     #             #         #          #                ##   ##
->     #             #          #         #                  ####
->     #            #            #       #
->  -5 #           #              #      #
->     #           #               ##   #
->     #           #                ####
->     #           #
->  -6 #          #
->     #          #
->     #          #
->     #         #
->     #         #
->  -7 #         #
->     #         #
->     #         #
->   ############################################################################
->     #         #
->     #        #  5          10          15         20          25          30
->     #        #
 >
 > Well, so what? In the absence of interference, the signal to noise
 > ratio is the main determining factor for the audio quality of the
@@ -617,69 +562,15 @@ article:
 ![50 ohm SNR losses]({{ site.url }}{{ site.baseurl }}/assets/images/doty3.gif)
 
 >
->     #
->   ############################################################################
->     #      ##      ##                ####
->     #           5    ##    10        # 15         20          ##          30
->     #                  ###          #    #                   ###
->     #                     ##       #      #                  #  #
->  -1 #                       #      #      #                  #  #
->     #                        ######        #                #   #
->     #                           ##          #               #    #
->     #                                        #              #    #
->     #                                         #            #      #
->  -2 #                                          #           #      #
->     #                                           #          #      #
->     #                                            ##       #        #
->     #                                              #      #        #
->     #                                               #     #        #
->  -3 #                                                ##  ##         #
->     #                                                 ####          #
->     #                                                                #
->     #                                                                 #
->     #                                                                  #
->  -4 #                                                                  #
->     #                                                                   #
->     #                                                                    ##
->     #                                                                      #
->  -5 #
->
->
 > Losses in signal to noise of 3-5 dB are likely to be noticeable.
 > The largest impact is in the quiet bands above 15 MHz.
 >
 > On the other hand: the loss in signal to noise with a 450 ohm feed
 > is much smaller:
 >
+
 ![450 ohm SNR losses]({{ site.url }}{{ site.baseurl }}/assets/images/doty4.gif)
->
->       #
->     ##########################################################################
->       #      ###########
->       #          5      ####10          15         20          25         30
->       #                     ##
->  -0.2 #                       ###
->       #                          ##
->       #                            #
->       #                             ##########
->  -0.4 #                                       ###
->       #                                          #
->       #                                           ###
->       #                                              #
->  -0.6 #                                              #
->       #                                               #
->       #                                                #
->       #                                                 #
->  -0.8 #                                                  #
->       #                                                   #
->       #                                                   ##     ###
->       #                                                     #####   ###
->    -1 #                                                      ##        ###
->       #                                                                   #
->       #                                                                    #
->       #                                                                    #
->  -1.2
->
+
 >
 > You are unlikely to be able to notice losses in signal to noise in
 > this range.

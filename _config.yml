@@ -61,10 +61,10 @@ defaults:
 google_analytics: UA-28057007-1
 
 # Disqus Comments
-# See https://cuda-chen.github.io/blogging/2020/03/28/add-Disqus-to-Jekyll-Minima-theme-simplified.html
-disqus:
-    # Leave shortname blank to disable comments site-wide.
-    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: techn0mad
+# See https://mmistakes.github.io/minimal-mistakes/docs/configuration/#disqus
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "techn0mad"
 
 url: "https://blog.gadallah.com"

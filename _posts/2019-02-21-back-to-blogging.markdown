@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Back to Blogging"
 date:   2019-02-22 17:12:24 -0800
 tags: blog jekyll ruby github

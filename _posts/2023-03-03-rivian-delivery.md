@@ -20,7 +20,7 @@ So on a friday in early March, we once again got on the ferry over to
 Anacortes, WA and drove up to Bellevue to pick it up on a particularly
 cold and blustery day.
 
-![Fresh](/assets/img/rivian/Rivian100.jpg)
+![Fresh]({{ site.url }}{{ site.baseurl }}/assets/images/rivian/Rivian100.jpg)
 *New Rivian R1T in Glacier White*
 
 I had been very concerned about what kind of quality issues I might
@@ -41,7 +41,7 @@ of the way Rivian had gone to support early customers. I don't know if
 I qualified as an early customer, but I still feel confident that
 they will continue to stand behind their product for a reasonable period.
 
-![HappyCustomers](/assets/img/rivian/Rivian101.jpg)
+![HappyCustomers]({{ site.url }}{{ site.baseurl }}/assets/images/rivian/Rivian101.jpg)
 *Happy customers with their new truck*
 
 Fortunately, other than some minor concerns over the alignment of body panels

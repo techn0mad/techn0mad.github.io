@@ -36,7 +36,7 @@ I decided to just use some wire from discarded Ethernet cables, which is
 roughly the correct size, and has the added advantage of being pre-twisted 
 which is needed for a bifilar transformer like this.
 
-![DIY Choke](/assets/img/W8JI_common_mode.jpg)
+![DIY Choke]({{ site.url }}{{ site.baseurl }}/assets/images/W8JI_common_mode.jpg)
 
 I am not certain the inverse phasing he references is needed in my case,
 but the much lower cost of these transformers will allow me to put one

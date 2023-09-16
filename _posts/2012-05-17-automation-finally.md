@@ -10,7 +10,7 @@ wordpress_id: 607
 tags: antennas hamradio software python rfi
 ---
 
-![AOR AR-7030+](/assets/img/aor-ar-7030p.jpg "AOR AR-7030+")
+![AOR AR-7030+]({{ site.url }}{{ site.baseurl }}/assets/images/aor-ar-7030p.jpg "AOR AR-7030+")
 
 After many years, I've finally gotten around to automating some
 antenna system measurements. I spent some time a few years ago trying

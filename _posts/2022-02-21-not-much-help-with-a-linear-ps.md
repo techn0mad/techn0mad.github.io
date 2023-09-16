@@ -4,7 +4,7 @@ title: "A Linear Power Supply Didn't Help Much"
 tags: kiwisdr snr rfi emi power electricity
 ---
 
-![Linear PS Spectrum](/assets/img/Site-2022-02-21-13.15.10-HughesLinear.png "Linear PS Spectrum")
+![Linear PS Spectrum]({{ site.url }}{{ site.baseurl }}/assets/images/Site-2022-02-21-13.15.10-HughesLinear.png "Linear PS Spectrum")
 
 *<center>KiwiSDR waterfall with linear power supply</center>*
 
@@ -21,10 +21,10 @@ difference. The waterfall above was from the KiwiSDR with a linear
 power supply. The waterfall below is from the KiwiSDR with a switch
 mode power supply.
 
-![Generic SMPS Spectrum](/assets/img/Site-2022-02-21-11.30.09-NoName2.png "Generic SMPS Spectrum")
+![Generic SMPS Spectrum]({{ site.url }}{{ site.baseurl }}/assets/images/Site-2022-02-21-11.30.09-NoName2.png "Generic SMPS Spectrum")
 
 *<center>KiwiSDR waterfall with Generic switch mode power supply</center>*
 
-![Generic SMPS](/assets/img/NoName2PS.jpg "Generic SMPS")
+![Generic SMPS]({{ site.url }}{{ site.baseurl }}/assets/images/NoName2PS.jpg "Generic SMPS")
 
 *<center>Generic switch mode power supply</center>

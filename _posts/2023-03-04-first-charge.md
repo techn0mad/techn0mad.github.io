@@ -22,19 +22,19 @@ There was one quite close by, and was unoccupied, unlike most of the
 charging stations I had seen since the day before, when we had picked
 up the truck.
 
-![ChargePoint](/assets/img/rivian/Rivian200.jpg)
+![ChargePoint]({{ site.url }}{{ site.baseurl }}/assets/images/rivian/Rivian200.jpg)
 *ChargePoint Level 2 charging station*
 
 So, I got out my smartphone app, activated the charger, plugged in, and
 waited patiently for an hour.
 
-![PluggedIn](/assets/img/rivian/Rivian201.jpg)
+![PluggedIn]({{ site.url }}{{ site.baseurl }}/assets/images/rivian/Rivian201.jpg)
 *Plugged in and green, charging!*
 
 The results were that I got about 6 kilowatts of charge, good for about
 12 miles of travel, for $1.00. For comparison, at current gas prices, my
 old Toyota truck would cost a bit more than $3.00 to go that far.
 
-![Range](/assets/img/rivian/Rivian202.jpg)
+![Range]({{ site.url }}{{ site.baseurl }}/assets/images/rivian/Rivian202.jpg)
 *Range going up, albeit slowly*
 

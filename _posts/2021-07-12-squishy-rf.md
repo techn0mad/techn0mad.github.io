@@ -46,11 +46,11 @@ to nothing, we shouldn't see anything. Reality looks a bit different:
 
 | Condition | Result |
 | --------- | ------ |
-| No input | ![No input](/assets/img/common_mode_2_2021-07-12.png "No input") |
-| Open feedline | ![Open feedline](/assets/img/common_mode_1_2021-07-12.png "Open feedline") |
-| Terminated feedline | ![Terminated feedline](/assets/img/common_mode_4_2021-07-12.png "Terminated feedline") |
-| Open feedline, common mode choke | ![Open feedline, common mode choke](/assets/img/common_mode_6_2021-07-12.png "Open feedline, common mode choke") |
-| Terminated feedline, common mode choke | ![Terminated feedline, common mode choke](/assets/img/common_mode_7_2021-07-12.png "Terminated feedline, common mode choke") |
+| No input | ![No input]({{ site.url }}{{ site.baseurl }}/assets/images/common_mode_2_2021-07-12.png "No input") |
+| Open feedline | ![Open feedline]({{ site.url }}{{ site.baseurl }}/assets/images/common_mode_1_2021-07-12.png "Open feedline") |
+| Terminated feedline | ![Terminated feedline]({{ site.url }}{{ site.baseurl }}/assets/images/common_mode_4_2021-07-12.png "Terminated feedline") |
+| Open feedline, common mode choke | ![Open feedline, common mode choke]({{ site.url }}{{ site.baseurl }}/assets/images/common_mode_6_2021-07-12.png "Open feedline, common mode choke") |
+| Terminated feedline, common mode choke | ![Terminated feedline, common mode choke]({{ site.url }}{{ site.baseurl }}/assets/images/common_mode_7_2021-07-12.png "Terminated feedline, common mode choke") |
 
 ## Discussion
 

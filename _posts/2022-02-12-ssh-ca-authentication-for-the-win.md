@@ -4,7 +4,7 @@ title: "Password-less SSH with a Certificate Authority and OpenSSH"
 tags: openssh tls certificates security authentication authorization
 ---
 
-![OpenSSH logo](/assets/img/openssh.gif "OpenSSH logo")
+![OpenSSH logo]({{ site.url }}{{ site.baseurl }}/assets/images/openssh.gif "OpenSSH logo")
 
 An advantage of key-based access to servers with SSH is to allow
 password-less SSH logins. However, these kinds of arrangements have
@@ -62,7 +62,7 @@ information about the SSH client, because it can determine that it's
 own SSH host key and the client's SSH public key are both valid and
 signed by the same CA.
 
-![SSH CA Authentication](/assets/img/vault-ssh-ca.png "SSH Certificate Based Authentication")
+![SSH CA Authentication]({{ site.url }}{{ site.baseurl }}/assets/images/vault-ssh-ca.png "SSH Certificate Based Authentication")
 
 #### Provisioning Operations
 

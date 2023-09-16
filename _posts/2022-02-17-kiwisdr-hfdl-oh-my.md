@@ -4,7 +4,7 @@ title: "HFDL on KiwiSDR"
 tags: sdr kiwisdr aviation hfdl
 ---
 
-![KiwiSDR HFDL](/assets/img/KiwiHFDL.png "KiwiSDR HFDL")
+![KiwiSDR HFDL]({{ site.url }}{{ site.baseurl }}/assets/images/KiwiHFDL.png "KiwiSDR HFDL")
 
 I used to spend a lot more time than I have recently listening to
 ["utility" stations](https://en.wikipedia.org/wiki/Utility_station) on

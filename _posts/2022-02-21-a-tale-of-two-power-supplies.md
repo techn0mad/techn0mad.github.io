@@ -4,11 +4,11 @@ title: "A Tale of Two Power Supplies"
 tags: kiwisdr snr rfi emi power electricity
 ---
 
-![Generic PS Spectrum](/assets/img/Site-2022-02-20-14.24.52-NoNamePS.png "Generic PS Spectrum")
+![Generic PS Spectrum]({{ site.url }}{{ site.baseurl }}/assets/images/Site-2022-02-20-14.24.52-NoNamePS.png "Generic PS Spectrum")
 
 *<center>KiwiSDR waterfall with generic SMPS</center>*
 
-![Generic PS](/assets/img/NoNamePS.jpg "Generic PS")
+![Generic PS]({{ site.url }}{{ site.baseurl }}/assets/images/NoNamePS.jpg "Generic PS")
 
 *<center>Generic SMPS</center>*
 
@@ -26,11 +26,11 @@ Studio](https://www.seeedstudio.com/) with my KiwiSDR.
 As an experiment, I swapped out the generic SMPS I'd been using with
 the KiwiSDR for the original SMPS provided with it.
 
-![Kiwi PS Spectrum](/assets/img/Site-2022-02-20-14.55.56-KiwiPS.png "PS provided with KiwiSDR Spectrum")
+![Kiwi PS Spectrum]({{ site.url }}{{ site.baseurl }}/assets/images/Site-2022-02-20-14.55.56-KiwiPS.png "PS provided with KiwiSDR Spectrum")
 
 *<center>KiwiSDR waterfall with Kiwi-provided PS</center>*
 
-![Kiwi PS](/assets/img/KiwiOrigPS.jpg "PS provided with KiwiSDR")
+![Kiwi PS]({{ site.url }}{{ site.baseurl }}/assets/images/KiwiOrigPS.jpg "PS provided with KiwiSDR")
 
 *<center>Kiwi-provided SMPS</center>
 

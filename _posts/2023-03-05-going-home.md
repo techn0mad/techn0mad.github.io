@@ -17,15 +17,15 @@ with about 110 miles of range remaining. I'm not sure what accounts
 for the 10-20 mile discrepancy in range, maybe I was playing around
 too much :-)
 
-![MtBaker](/assets/img/rivian/Rivian300.jpg)
+![MtBaker]({{ site.url }}{{ site.baseurl }}/assets/images/rivian/Rivian300.jpg)
 *Waiting in line with Mt. Baker in the background*
 
-![Clean](/assets/img/rivian/Rivian301.jpg)
+![Clean]({{ site.url }}{{ site.baseurl }}/assets/images/rivian/Rivian301.jpg)
 *Shiny white truck*
 
-![LightsOn](/assets/img/rivian/Rivian302.jpg)
+![LightsOn]({{ site.url }}{{ site.baseurl }}/assets/images/rivian/Rivian302.jpg)
 *The zany Rivian "cartoon" headlights*
 
-![OrcasDock](/assets/img/rivian/Rivian303.jpg)
+![OrcasDock]({{ site.url }}{{ site.baseurl }}/assets/images/rivian/Rivian303.jpg)
 *The Orcas ferry dock is in sight*
 

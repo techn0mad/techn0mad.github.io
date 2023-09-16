@@ -4,7 +4,7 @@ title: "LED Dial Lights for Drake TR-7"
 tags: drake tr7 dial lights
 ---
 
-![Drake TR-7 LED Dial Lights](/assets/img/DrakeLEDDialLights.jpg "Drake TR-7 LED Dial Lights")
+![Drake TR-7 LED Dial Lights]({{ site.url }}{{ site.baseurl }}/assets/images/DrakeLEDDialLights.jpg "Drake TR-7 LED Dial Lights")
 
 *<center>Ice Blue LED Dial Lights in Drake TR-7</center>*
 
@@ -22,7 +22,7 @@ blue film on the back of the S-meter and VFO dial, these gave the
 Drake 7 line its unique appearance.
 
 
-[![Drake TR-7 S-Meter](/assets/img/DrakeSMeter.png)](https://photos.app.goo.gl/dFgwyqmqEThKAQwT6)
+[![Drake TR-7 S-Meter]({{ site.url }}{{ site.baseurl }}/assets/images/DrakeSMeter.png)](https://photos.app.goo.gl/dFgwyqmqEThKAQwT6)
 
 As these kinds of bulbs are no longer being used in the automotive
 industry, it is getting more and more difficult to find them. As a

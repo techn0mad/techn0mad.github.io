@@ -4,7 +4,7 @@ title: "The Chip Shortage Bites"
 tags: economics semiconductor supplychain raspberrypi
 ---
 
-![Raspberry Pi](/assets/img/RaspberryPi.png "Raspberry Pi")
+![Raspberry Pi]({{ site.url }}{{ site.baseurl }}/assets/images/RaspberryPi.png "Raspberry Pi")
 
 Imagine my surprise when I set out today to make what used to be a commodity
 purchase:

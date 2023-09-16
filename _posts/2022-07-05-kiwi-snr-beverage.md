@@ -4,7 +4,7 @@ title: "A Leap Forward"
 tags: antenna beverage kiwisdr snr
 ---
 
-[![KiwiSDR SNR List](/assets/img/2022-07-05-beverage-headend.jpg)](/assets/img/2022-07-05-beverage-headend.jpg)
+[![KiwiSDR SNR List]({{ site.url }}{{ site.baseurl }}/assets/images/2022-07-05-beverage-headend.jpg)](/assets/img/2022-07-05-beverage-headend.jpg)
 *<center>Beverage Headend</center>*
 
 For some time, I have been trying to improve the
@@ -35,7 +35,7 @@ over 650. This number varies over time as conditions change, but I am
 very pleased to see that the effort to put up the new antenna already
 seems to be paying off.
 
-[![KiwiSDR SNR List](/assets/img/2022-07-05-KiwiSDR_SNR_List.png)]({% post_url 2022-07-05-kiwi-snr-beverage %})
+[![KiwiSDR SNR List]({{ site.url }}{{ site.baseurl }}/assets/images/2022-07-05-KiwiSDR_SNR_List.png)]({% post_url 2022-07-05-kiwi-snr-beverage %})
 *<center>A big leap up the list</center>*
 
 The ranking shown on the page above is very deceptive, however: As the page

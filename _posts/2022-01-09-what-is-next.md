@@ -4,7 +4,7 @@ title: "Blog Fatigue"
 tags: blog jekyll github ruby eleventy
 ---
 
-![Eleventy logo](/assets/img/11ty.png "Eleventy logo")
+![Eleventy logo]({{ site.url }}{{ site.baseurl }}/assets/images/11ty.png "Eleventy logo")
 
 I'm a bit disappointed to note that I've spent far too many 
 hours in the past six months trying to come up with a new way of blogging,

@@ -3,7 +3,7 @@ pageTitle: "Kiwi is Back"
 tags: kiwisdr wellbrook sdr antenna rfi
 ---
 
-[![Wellbrook ALA100LN Active Antenna](/assets/img/ala100ln.jpg){:class="img-responsive"}](https://www.wellbrook.uk.com/loopantennas/pdf/ALA100LN-M.pdf)
+[![Wellbrook ALA100LN Active Antenna]({{ site.url }}{{ site.baseurl }}/assets/images/ala100ln.jpg){:class="img-responsive"}](https://www.wellbrook.uk.com/loopantennas/pdf/ALA100LN-M.pdf)
 
 Last summer, I quickly threw together a ~10 M wire loop in order to finally test
 my
@@ -39,7 +39,7 @@ very close together, which makes some sense as the
 throughout the UK on that frequency, so perhaps they are not perfectly 
 synchronized.
 
-[![Ghostly LW BC carriers](/assets/img/kiwi-2022-01-23.png){:class="img-responsive"}](/assets/img/kiwi-2022-01-23.png)
+[![Ghostly LW BC carriers]({{ site.url }}{{ site.baseurl }}/assets/images/kiwi-2022-01-23.png){:class="img-responsive"}]({{ site.url }}{{ site.baseurl }}/assets/images/kiwi-2022-01-23.png)
 
 More than likely none of these are at anywhere near listenable levels,
 but with an SDR's waterfall display, the eye can pick out some amazingly weak

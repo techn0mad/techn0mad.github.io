@@ -4,7 +4,7 @@ title: "Conflicting Advice Regarding Bonding and Grounding"
 tags: hamradio antennas rfi grounding bonding
 ---
 
-![Electrical grounding](/assets/img/grounding.jpg "Electrical grounding")
+![Electrical grounding]({{ site.url }}{{ site.baseurl }}/assets/images/grounding.jpg "Electrical grounding")
 
 Given that most hams suffer to some degree of self-inflicted QRM
 caused by their own equipment and wiring, many are naturally quite
@@ -32,7 +32,7 @@ issue is that the common ground is not common, and it is easy to
 measure voltage differences between ground at one device and ground at
 another device.
 
-![K9YC Ground Noise Plot](/assets/img/K9YCGroundNoise.png "Typical Noise Spectrum on \"Ground\"")
+![K9YC Ground Noise Plot]({{ site.url }}{{ site.baseurl }}/assets/images/K9YCGroundNoise.png "Typical Noise Spectrum on \"Ground\"")
 
 ## The Solution
 
@@ -78,7 +78,7 @@ Whereas K9YC makes the following statement:
 >     - More power line buzz
 >     - **Creates** loops for magnetic coupling[2]
 
-![N0AX Ground Topologies](/assets/img/SilverGroundTopologies.png "Should I use a star or bus connection?")
+![N0AX Ground Topologies]({{ site.url }}{{ site.baseurl }}/assets/images/SilverGroundTopologies.png "Should I use a star or bus connection?")
 
 While Silver references and acknowledges Brown's works in his book,
 his argument for using a bonding bus seems to be related to practical

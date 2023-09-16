@@ -11,7 +11,7 @@ who piqued my curiosity, as they were building an exciting EV
 truck targeted towards off-road users, but was also a luxurious,
 sporty vehicle while on-road.
 
-![Our ride for the day](/assets/img/rivian/Rivian001.jpg)
+![Our ride for the day]({{ site.url }}{{ site.baseurl }}/assets/images/rivian/Rivian001.jpg)
 *Rivian R1T in El Cap Granite*
 
 While many people are motivated by the ecological or "green"
@@ -35,7 +35,7 @@ So, in October, 2021, I put down a deposit on a
 truck that would be delivered at some indeterminate time in
 the next year or two.
 
-![Portrait](/assets/img/rivian/Rivian005.jpg)
+![Portrait]({{ site.url }}{{ site.baseurl }}/assets/images/rivian/Rivian005.jpg)
 *Front view*
 
 Fast forward to January, 2023: I finally hear back from
@@ -66,7 +66,7 @@ said they could arrange it.
 My wife and I got on the ferry, went over to Anacortes, WA and
 drove up to Vancouver, BC for a very pleasant day:
 
-![Heavily joweled driver](/assets/img/rivian/Rivian002.jpg)
+![Heavily joweled driver]({{ site.url }}{{ site.baseurl }}/assets/images/rivian/Rivian002.jpg)
 *Backseat photographer, jowled driver*
 
 It took a few minutes to get used to the "one pedal" driving
@@ -75,14 +75,14 @@ electricity and feeding it back into the batteries. Once you
 are used to it, it is very easy to drive without touching the
 brake pedal, unless an emergency arises.
 
-![No step](/assets/img/rivian/Rivian003.jpg)
+![No step]({{ site.url }}{{ site.baseurl }}/assets/images/rivian/Rivian003.jpg)
 *My wife testing the "Gear Tunnel" door/step*
 
 Our Rivian guide took us through many scenic parts
 of downtown Vancouver and across the Lion's Gate Bridge
 over to West Vancouver.
 
-![WestBay](/assets/img/rivian/Rivian004.jpg)
+![WestBay]({{ site.url }}{{ site.baseurl }}/assets/images/rivian/Rivian004.jpg)
 *Front quarter view*
 
 I found that the truck felt very solid and heavy,
@@ -93,16 +93,16 @@ However, the massive horsepower overwhelms this weight
 and the truck can scoot around like a sports car if
 you push it.
 
-![Verdict](/assets/img/rivian/Rivian006.jpg)
+![Verdict]({{ site.url }}{{ site.baseurl }}/assets/images/rivian/Rivian006.jpg)
 *The verdict is in*
 
 When we went back to the Rivian office, we got to see one
 in the color I had ordered.
 
-![GlacierWhite](/assets/img/rivian/Rivian007.jpg)
+![GlacierWhite]({{ site.url }}{{ site.baseurl }}/assets/images/rivian/Rivian007.jpg)
 *Our chosen color, Glacier White*
 
-![VanBC](/assets/img/rivian/Rivian008.jpg)
+![VanBC]({{ site.url }}{{ site.baseurl }}/assets/images/rivian/Rivian008.jpg)
 *The end of a successful visit to Rivian in Vancouver*
 
 

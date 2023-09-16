@@ -4,7 +4,7 @@ title: "New Beverage Antenna Finally Under Construction"
 tags: hamradio antennas
 ---
 
-![East end of Beverage](/assets/img/EastBevEnd.jpg "East end of Beverage")
+![East end of Beverage]({{ site.url }}{{ site.baseurl }}/assets/images/EastBevEnd.jpg "East end of Beverage")
 
 At field day in 2017, some good friends volunteered to setup an ad-hoc
 [Beverage antenna](https://en.wikipedia.org/wiki/Beverage_antenna) at

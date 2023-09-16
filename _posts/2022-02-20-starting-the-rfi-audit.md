@@ -4,11 +4,11 @@ title: "Tracking the Elusive SMPS"
 tags: kiwisdr snr rfi emi power electricity
 ---
 
-![AC On](/assets/img/Site-2022-02-19-10.04.10.png "Waterfall with AC on")
+![AC On]({{ site.url }}{{ site.baseurl }}/assets/images/Site-2022-02-19-10.04.10.png "Waterfall with AC on")
 
 *<center>KiwiSDR waterfall with normal AC power</center>*
 
-![AC Off](/assets/img/Site-2022-02-19-11.35.00.png "Waterfall with AC off")
+![AC Off]({{ site.url }}{{ site.baseurl }}/assets/images/Site-2022-02-19-11.35.00.png "Waterfall with AC off")
 
 *<center>KiwiSDR waterfall with (most) AC power off</center>*
 

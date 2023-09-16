@@ -4,7 +4,7 @@ title:  "Whither SDR?"
 tags: hamradio sdr hpsdr
 ---
 
-![GNU Radio logo](/assets/img/GNURadio.png "GNU Radio logo")
+![GNU Radio logo]({{ site.url }}{{ site.baseurl }}/assets/images/GNURadio.png "GNU Radio logo")
 
 As a long-time devotee of the concept of software defined radio (SDR), I remain somewhat discouraged
 at the current state-of-the-art with respect to its usage in the ham radio world.

@@ -4,7 +4,7 @@ title: "The (RFI) Plot Thickens"
 tags: snr rfi emi power electricity
 ---
 
-![SMPS Hash on 40M](/assets/img/IC705-40M-hash.jpg "SMPS Hash on 40M")
+![SMPS Hash on 40M]({{ site.url }}{{ site.baseurl }}/assets/images/IC705-40M-hash.jpg "SMPS Hash on 40M")
 *<center>40M SMPS hash on IC-705</center>*
 
 Despite having read for years about the benefit of common mode chokes, and
@@ -16,7 +16,7 @@ typical, wide, wandering SMPS noise bands on the spectrum. In a fit of
 experimentation, first I disconnected the DC changing cable, and the
 SMPS noise disappeared when the radio was running on battery alone.
 
-![40M on Battery](/assets/img/IC705-40M-battery.jpg "40M on Battery")
+![40M on Battery]({{ site.url }}{{ site.baseurl }}/assets/images/IC705-40M-battery.jpg "40M on Battery")
 *<center>40M on IC-705 with battery</center>*
 
 I grabbed a [Fair-Rite type
@@ -24,14 +24,14 @@ I grabbed a [Fair-Rite type
 snap-on ferrite ring, and ran a few turns of the DC charging cable for
 the IC-705 through it.
 
-![DC Common-mode Choke](/assets/img/DCChokeIC705.jpg "DC Common-mode Choke")
+![DC Common-mode Choke]({{ site.url }}{{ site.baseurl }}/assets/images/DCChokeIC705.jpg "DC Common-mode Choke")
 *<center>Ad-hoc DC common-mode choke</center>*
 
 Lo and behold, the SMPS hash virtually disappeared, despite this being
 a quick, ad-hoc choke built using the wrong type of ferrite (type 75
 is for LF, MF; this should probably be type 31 or 73).
 
-![DC choke on 40M](/assets/img/IC705-40M-DC-choke.jpg "DC choke on 40M")
+![DC choke on 40M]({{ site.url }}{{ site.baseurl }}/assets/images/IC705-40M-DC-choke.jpg "DC choke on 40M")
 *<center>40M on IC-705 with DC choke</center>*
 
 I did a bit more tinkering to try and find out where the noise is

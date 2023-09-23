@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Another Sad Story of Common Mode"
 tags: blog sdr kiwisdr rf antennas emi rfi
 ---

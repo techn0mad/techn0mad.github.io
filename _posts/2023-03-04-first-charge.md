@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "First Charge"
 tags: rivian ev
 ---

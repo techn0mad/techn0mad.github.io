@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Password-less SSH with a Certificate Authority and OpenSSH"
 tags: openssh tls certificates security authentication authorization
 ---

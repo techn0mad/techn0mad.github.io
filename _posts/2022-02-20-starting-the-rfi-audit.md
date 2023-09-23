@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Tracking the Elusive SMPS"
 tags: kiwisdr snr rfi emi power electricity
 ---

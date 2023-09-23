@@ -1,5 +1,5 @@
 ---
-pageTitle: "Kiwi is Back"
+title: "Kiwi is Back"
 tags: kiwisdr wellbrook sdr antenna rfi
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Another New Blog?"
 tags: blog jamstack javascript
 ---

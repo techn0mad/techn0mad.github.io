@@ -2,7 +2,6 @@
 author: gadallah
 comments: true
 date: 2012-05-29 05:57:32+00:00
-layout: post
 published: true
 slug: qtradio-rocks
 title: QtRadio Rocks!

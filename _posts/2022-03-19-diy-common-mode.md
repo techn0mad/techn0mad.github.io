@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "DIY Common Mode Choke"
 tags: rfi emi antenna noise
 ---

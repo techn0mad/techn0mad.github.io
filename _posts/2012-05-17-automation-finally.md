@@ -2,7 +2,6 @@
 author: gadallah
 comments: true
 date: 2012-05-17 06:26:17+00:00
-layout: post
 published: true
 slug: automation-finally
 title: Automation, finally

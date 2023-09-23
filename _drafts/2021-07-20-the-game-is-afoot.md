@@ -1,5 +1,4 @@
 ---
-layout: single
 title: "The Game is Afoot"
 tags: blog sdr kiwisdr rf antennas emi rfi
 ---

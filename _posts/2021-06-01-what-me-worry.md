@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "What, Me Worry?"
 tags: internet network computer security
 ---

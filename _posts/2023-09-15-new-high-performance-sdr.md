@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "New High Performance SDR"
 tags: sdr hamradio
 ---

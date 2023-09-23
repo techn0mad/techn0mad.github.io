@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Leap Forward"
 tags: antenna beverage kiwisdr snr
 ---

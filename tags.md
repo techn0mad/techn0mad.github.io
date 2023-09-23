@@ -1,14 +1,7 @@
 ---
-layout: page
-title: Tags
+title: Tag Archive
+layout: tags
 permalink: /tags/
+show_excerpts: true
+entries_layout: list
 ---
-
-{% for tag in site.tags %}
-  <h3>{{ tag[0] }}</h3>
-  <ul>
-    {% for post in tag[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% endfor %}

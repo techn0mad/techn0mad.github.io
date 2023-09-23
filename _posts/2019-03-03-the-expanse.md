@@ -1,5 +1,4 @@
 ---
-layout: single
 title:  "The Expanse"
 date:   2019-03-03 20:32:24 -0800
 tags: scifi tv expanse

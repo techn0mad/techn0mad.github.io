@@ -30,10 +30,10 @@ mathjax:
   combo:  # "tex-svg" (default), "tex-mml-chtml", etc.: docs.mathjax.org/en/latest/web/components/combined.html
   tags:  # "none", "ams" (default), "all"
 google_fonts:
-#  - name: "Source Sans Pro"
-#    weights: "400,400i,700,700i"
-#  - name: "Lora"
-#    weights: "400,400i,700,700i"
+  - name: "Source Sans Pro"
+    weights: "400,400i,700,700i"
+  - name: "Lora"
+    weights: "400,400i,700,700i"
 google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
   shortname: techn0mad # Disqus shortname, e.g. "my_disqus_shortname"
@@ -45,26 +45,26 @@ liquid:
   error_mode: strict
 
 # Build settings
-permalink: /:categories/:title/
 markdown: kramdown
 feed:
   path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-# paginate: 10
-# paginate_path: /page:num/
+paginate: 10
+paginate_path: /page:num/
 
 # Search
 search_full_content: true # can have performance implications for large sites
 
 # Taxonomy pages
-# category_archive_path: "/categories/#"
-# tag_archive_path: "/tags/#"
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
+exclude:
+  - README.md
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
@@ -79,33 +79,36 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
+# Collections
+collections:
+
 # Front Matter Defaults
 defaults:
-  # Posts defaults
+  # Post defaults
   - scope:
       path: "_posts"
       type: posts
     values:
       layout: post
+      comments: true
       share: true
 
 # Site Author
 author:
-  name: "Larry Gadallah"
-  picture:
+  name: Larry Gadallah
+  picture: /assets/images/LarryTut.jpg
   email: "mailto:lgadallah@gmail.com"
   twitter: "techn0mad"
   links:
-    - title:
-      url:
-      icon:
+    - title: GitHub
+      url: https://github.com/techn0mad
+      icon: fab fa-github-square
 
 # Footer Links
 footer_links:
+  - title: GitHub
+    url: https://github.com/techn0mad
+    icon: fab fa-github-square
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
-
-# Pagination
-paginate: 10
-paginate_path: /page:num/

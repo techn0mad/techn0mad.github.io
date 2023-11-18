@@ -3,7 +3,7 @@ title: "In Search of Internet Privacy"
 tags: internet privacy email vps dns
 ---
 
-![Big Tech](https://commons.wikimedia.org/wiki/File:AAAMM_Big_Tech.svg#/media/File:AAAMM_Big_Tech.svg "The Four Horsemen of the Tech Apocalypse"]
+![Big Tech](https://commons.wikimedia.org/wiki/File:AAAMM_Big_Tech.svg#/media/File:AAAMM_Big_Tech.svg "The Five Horsemen of the Tech Apocalypse"]
 
 After reading a recent book by Cory Doctorow, ["The Internet Con: How
 to Seize the Means of

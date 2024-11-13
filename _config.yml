@@ -7,20 +7,23 @@
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-# theme: jekyll-theme-so-simple
-remote_theme: mmistakes/so-simple-theme
-skin: "/assets/css/skins/default.css"
-locale: en-US
+
 title: "Techn0mad"
-description: "Larry's place on the web."
-baseurl: # the subpath of your site, e.g. "/blog"
-url: https://techn0mad.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+email: "lgadallah@gmail.com"
+description: >- # this means to ignore newlines until "baseurl:"
+  Larry's place on the web.
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "http://orcas.lan.gadallah.net" # the base hostname & protocol for your site, e.g. http://example.com
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: false # reading time estimates, e.g. true
@@ -37,8 +40,16 @@ google_fonts:
 google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
   shortname: techn0mad # Disqus shortname, e.g. "my_disqus_shortname"
-twitter:
-  username: techn0mad # site's Twitter username, e.g. "mmistakes"
+
+twitter_username: techn0mad # site's Twitter username, e.g. "mmistakes"
+github_username: techn0mad
+
+# Build settings
+theme: jekyll-theme-so-simple
+skin: "/assets/css/skins/default.css"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
 
 # Liquid
 liquid:
@@ -61,23 +72,25 @@ category_archive_path: "/categories/#"
 tag_archive_path: "/tags/#"
 
 # Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
 exclude:
   - README.md
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-paginate
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
 # Collections
 collections:
@@ -101,14 +114,15 @@ author:
   twitter: "techn0mad"
   links:
     - title: GitHub
-      url: https://github.com/techn0mad
+      url: "http://github.com/techn0mad"
       icon: fab fa-github-square
 
 # Footer Links
 footer_links:
   - title: GitHub
-    url: https://github.com/techn0mad
+    url: "http://github.com/techn0mad"
     icon: fab fa-github-square
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+

@@ -2,9 +2,9 @@
 
 # Check if remote has changed
 git status -sb | grep -q 'behind '
-if [ $? -eq 0 ]; then
+if [ $? -eq 0 ] || [ ${1} = "-f" ]; then
   # If there are upstream changes, get them
-  git pull
+  git pull --ff-only
 
   # Update gems
   bundle install

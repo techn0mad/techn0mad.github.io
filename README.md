@@ -31,4 +31,3 @@ To fix the error, try running `bundle add webrick`, then re-running
 `bundle exec jekyll serve`.
 
 To preview your site, in your web browser, navigate to http://localhost:4000.
-

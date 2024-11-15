@@ -81,6 +81,8 @@ tag_archive_path: "/tags/#"
 #
 exclude:
   - README.md
+  - build.sh
+  - deploy.sh
   - .sass-cache/
   - .jekyll-cache/
   - gemfiles/

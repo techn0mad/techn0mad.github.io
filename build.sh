@@ -34,7 +34,7 @@ if [ ${REMOTE_COMMITS} -gt 0 ] || [ "${1}" = "-f" ]; then
   # Build the site
   rm -fr _site
   #bundle exec jekyll33 build --verbose --trace
-  bundle exec jekyll33 build --verbose
+  bundle exec jekyll33 build
 
   doas $(dirname ${0})/deploy.sh /var/www/htdocs/orcas.gadallah.net/blog
 else

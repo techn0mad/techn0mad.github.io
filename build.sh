@@ -36,7 +36,7 @@ if [ ${REMOTE_COMMITS} -gt 0 ] || [ "${1}" = "-f" ]; then
   #bundle exec jekyll33 build --verbose --trace
   bundle exec jekyll33 build
 
-  doas $(dirname ${0})/deploy.sh /var/www/htdocs/orcas.gadallah.net/blog
+  doas $(dirname ${0})/deploy.sh /var/www/htdocs/orcas.gadallah.net
 else
   echo "No changes."
 fi

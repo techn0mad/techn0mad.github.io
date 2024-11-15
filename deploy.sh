@@ -5,5 +5,5 @@ if [ -d "${1}" ]; then
 fi
 
 if [ -d ./_site ]; then
-  cp -a ./_site "${1}"
+  cp -av ./_site "${1}"
 fi

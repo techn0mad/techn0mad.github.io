@@ -41,7 +41,7 @@ google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
   shortname: techn0mad # Disqus shortname, e.g. "my_disqus_shortname"
 
-twitter_username: techn0mad # site's Twitter username, e.g. "mmistakes"
+#twitter_username: techn0mad # site's Twitter username, e.g. "mmistakes"
 github_username: techn0mad
 
 # Build settings

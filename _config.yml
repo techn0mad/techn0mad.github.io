@@ -23,7 +23,7 @@ email: "lgadallah@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   Larry's place on the web.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://orcas.gadallah.net" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.gadallah.com" # the base hostname & protocol for your site, e.g. http://example.com
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: false # reading time estimates, e.g. true

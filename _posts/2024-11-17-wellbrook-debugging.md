@@ -74,9 +74,9 @@ Antennas stated the following:
 > the noise problem doesn't show up if the feeder is then used with a passive 
 > antenna. Hence, this can lead to a false diagnosis that the antenna is 
 > faulty.
-
-If the antenna connectors are covered in either Vaseline or Dow Corning DC 4 
-grease and a PVC boot is slid over the connectors, this should be okay."
+>
+> If the antenna connectors are covered in either Vaseline or Dow Corning DC 4 
+> grease and a PVC boot is slid over the connectors, this should be okay.
 
 So, I treked out to the backyard and undid my various ropes and lines to get
 the loop down to arm's reach and checked the connection. Sure enough, the

@@ -14,25 +14,25 @@ that became famous in MW DX circles in the late 1990's and early 2000's.
 The difference between the ALA100 and the ALA1500 series is that for the ALA100,
 you provide your own loop in the form of 5-10 meters of wire (although some use
 considerably more than that), and as a result you also have to provide some
-mechanism to hold that wire up in the air in a vauguely loop-like shape (i.e. 
+mechanism to hold that wire up in the air in a vauguely loop-like shape (i.e.
 square, circle, triangle, rectangle, etc.).
 
 Living as I do on a lot full of Fir trees that are 80-100 feet tall, of course
-I wanted to hang said loop up as far up as I could. On my first attempt, I 
+I wanted to hang said loop up as far up as I could. On my first attempt, I
 managed to get it up about 65-70 feet. This was fine, but one caveat about
-hanging antennas from trees like these is that the tops of the trees move 
+hanging antennas from trees like these is that the tops of the trees move
 around in the wind. A lot, like 10-15 feet, and often the tops of two trees
 will be seen to be moving in opposite directions.
 
-My first attempt at hanging up the loop came crashing down last winter as the 
+My first attempt at hanging up the loop came crashing down last winter as the
 wire in the loop just pulled completely apart. I'd been procrastinating on
-getting it fixed until this past summer. This time I took more care, and 
+getting it fixed until this past summer. This time I took more care, and
 made sure that:
 
 - The wire loop was not the structural support for the loop; a dacron rope
   across the top is the structural support and the loop just hangs from it.
 - The other tree has a rope with an eyelet thrown over it.
-- The dacron rope is fixed only on one tree; the other side of the rope 
+- The dacron rope is fixed only on one tree; the other side of the rope
   goes through the eyelet on the rope fixed to the other tree, allowing the
   rope supporting the loop to slide back and forth through the eyelet.
 
@@ -54,28 +54,28 @@ the Wellbrook to my trusty ancient linear 12V power supply. The result
 was the same. After a brief interlude to walk the dog, I got serious
 and took the Icom IC-705, the Wellbrook antenna interface, a 12 volt
 Gel-cell battery, and some cables outside and connected things directly
-to the cable that goes out to the loop (I have a "stub" cable that 
+to the cable that goes out to the loop (I have a "stub" cable that
 goes through the wall of my house that I was suspicious of). Sadly,
 the results were the same, broadband hash everywhere, and notably,
 still present at a lower amplitude if power was removed from the loop.
 
 A quick search of Google in hopes of finding others who might have
-suffered the same fate yielded 
+suffered the same fate yielded
 [a message on](https://groups.io/g/loopantennas/topic/noisy_wellbrook_ala1530ln/36945535)
 the [Loopantennas Groups.io e-mail list](https://groups.io/g/loopantennas).
 In that message, the late Andy Ikin, the creator and proprietor of Wellbrook
 Antennas stated the following:
 
-> The issue you mention can be applicable to any active antenna which is 
-> voltage fed via the feeder cable. The problem is caused when moisture gets 
-> into the feeder BNC connector and a conductive residue forms across the 
+> The issue you mention can be applicable to any active antenna which is
+> voltage fed via the feeder cable. The problem is caused when moisture gets
+> into the feeder BNC connector and a conductive residue forms across the
 > connexion due to electrolytic action with the dc voltage.
-> This generates considerable noise when the voltage is applied. In some cases 
-> the noise problem doesn't show up if the feeder is then used with a passive 
-> antenna. Hence, this can lead to a false diagnosis that the antenna is 
+> This generates considerable noise when the voltage is applied. In some cases
+> the noise problem doesn't show up if the feeder is then used with a passive
+> antenna. Hence, this can lead to a false diagnosis that the antenna is
 > faulty.
 >
-> If the antenna connectors are covered in either Vaseline or Dow Corning DC 4 
+> If the antenna connectors are covered in either Vaseline or Dow Corning DC 4
 > grease and a PVC boot is slid over the connectors, this should be okay.
 
 So, I treked out to the backyard and undid my various ropes and lines to get
@@ -89,13 +89,13 @@ weatherproof).
 I fetched an additional zip-tie and some 3M electrical tape, and tightened
 up the BNC connector, taped it into place and added the zip tie to keep the
 amplifier box centered under the insulator at the bottom of the loop.
- 
+
 I ran back into the house and was relieved to see that while the antenna was
 relatively noisy compared to some of my other passive wire antennas, there
-was no longer an S-9 hash everywhere. 
+was no longer an S-9 hash everywhere.
 
-I have to admit that I was also relieved that apparently nothing had gone 
-wrong with 
+I have to admit that I was also relieved that apparently nothing had gone
+wrong with
 [Andy's elegant super-low-noise, super-low-impedance preamplifier](https://www.pa3fwm.nl/technotes/tn36-zwischenbasis.html "Zwischenbasis")
 as it is encased in epoxy, and like Andy, any hope of replacements or repair
 is long gone. A snippet from an ancient version of his (Wellbrook) website:

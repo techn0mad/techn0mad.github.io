@@ -106,7 +106,7 @@ defaults:
     values:
       layout: post
       comments: true
-      share: true
+      share: false
 
 # Site Author
 author:

@@ -1,6 +1,5 @@
 ---
 title:  "The Exodus..."
-date:   2025-01-08 12:49:44 -0800
 categories: tech society politics
 ---
 
